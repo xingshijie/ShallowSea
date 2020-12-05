@@ -7,3 +7,8 @@ warning!!!: If you are first time to hack switch, recommend you make emuMMC firs
 Update aio-package guide(for beginners):
 If you are Atmosphere user: Delete all the folders but not (Nintendo,emuMMC,JKSV) folders. Then unzip my aio package into your sd card.
 If you are sxos user: Delete all the folders but not (Nintendo,sxos,Emutendo,JKSV) folders. Then unzip my aio package into your sd card.
+
+atmosphere aio package includes:
+Tinfoil(with jits.cc)
+awoo installer(multi installer)
+ftpd(required filezilla)
