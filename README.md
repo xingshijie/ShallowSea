@@ -85,6 +85,6 @@ notes:
 * edizon not work for sxos
 
 Credits / Sources:
-* atmospherehttps://github.com/Atmosphere-NX/Atmosphere
+* atmosphere https://github.com/Atmosphere-NX/Atmosphere
 *
 
