@@ -1,16 +1,16 @@
 # ShallowSea
-The new All-in-One CFW package for the Nintendo Switch with atmosphere and sxos.
+The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee primary or hekate) and sxos.
 
 Poor English version readme below
-warning!!!: 
+warning!!! : 
 * If you are first time to hack switch, strongly recommend you make emuMMC first and incognito emuMMC using incognito rcm to avoid Nintendo ban.
 
 Update aio-package guide(for beginners):
-* If you are Atmosphere user: Delete all the folders but not (Nintendo,emuMMC,JKSV) folders. Then unzip my aio package into your sd card.
-* If you are sxos user: Delete all the folders but not (Nintendo,sxos,Emutendo,JKSV) folders. Then unzip my aio package into your sd card.
+* If you are Atmosphere user: Delete all the folders but not (Nintendo,emuMMC,JKSV) folders. Then unzip shallowsea/full(or mi/atmosphere X.XX.X/ into your sd card.
+* If you are sxos user: Delete all the folders but not (Nintendo,sxos,Emutendo,JKSV) folders. Then unzip shallowsea/full/sxos X.X.X/ into your sd card.
 
-atmosphere aio package includes(with sigpatch):
-* Tinfoil(with jits.cc)(language has changed to chinese)
+atmosphere full version includes(with sigpatch):
+* hbg shop((with jits.cc)(language has changed to chinese)
 * awoo installer(multi games format installer)
 * ftpd(required filezilla)
 * idn_mitm(lan play)
@@ -30,13 +30,20 @@ atmosphere aio package includes(with sigpatch):
 * Nx-shell(switch file manager)
 * JKSV(function as like as checkpoint，eject or inject save)
 * sigpatch-updater(update sigpatch online)
-* pplay
+* pplay(a video player for the Nintendo Switch)
 * playernx
 * nx-theme-installer(install themes on switch)
 * N-Xplorer(another switch file manager)
+* switch cheat updater(update cheat online)
 
 plugin : 
-* missioncontrol
-* syscon
+* missioncontrol(sysmodule for third-party controller support with bluetooth)(not support sxos)
+* syscon(sysmodule for third-party controller support with usb connection)
 * tesla menu(initial overlay menu to be loaded by nx-ovlloader)
 * sysclk(overclocked switch)
+
+notes: 
+* nxthemeinstaller, missioncontrol not work for HOS 11.0.0
+* edizon not work for sxos
+
+sxos
