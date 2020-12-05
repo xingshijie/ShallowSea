@@ -3,18 +3,19 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 
 Poor English version readme below
 warning!!! : 
-* If you are first time to hack switch, strongly recommend you make emuMMC first and incognito emuMMC using incognito rcm to avoid Nintendo ban.
+* If you are first time to hack switch, strongly recommend you make sd file emuMMC.
 
 Update aio-package guide(for beginners):
-* If you are Atmosphere user: Delete all the folders but not (Nintendo,emuMMC,JKSV) folders. Then unzip shallowsea/full(or mi/atmosphere X.XX.X/ into your sd card.
-* If you are sxos user: Delete all the folders but not (Nintendo,sxos,Emutendo,JKSV) folders. Then unzip shallowsea/full/sxos X.X.X/ into your sd card.
+* If you are Atmosphere user: Delete all the folders but not (Nintendo,emuMMC,JKSV) folders. Then unzip shallowsea/full(or minimal)/atmosphere X.XX.X/ into your sd card.
+* If you are sxos user: Delete all the folders but not (Nintendo,sxos,Emutendo,JKSV) folders. Then unzip shallowsea/full(or minimal)/sxos X.X.X/ into your sd card.
 
-atmosphere full version includes(with sigpatch):
+atmosphere full version includes:
+* sigpatch for atmosphere
+* exosphere.ini(Incognito applied)
 * hbg shop((with jits.cc)(language has changed to chinese)
 * awoo installer(multi games format installer)
 * ftpd(required filezilla)
 * idn_mitm(lan play)
-* awoo installer
 * sysdvr(stream switch games to pc)
 * emuiibo(amiibo emulated)
 * aio-switch-updater(update CFWs, sigpatches, FWs and cheat codes)
@@ -35,6 +36,7 @@ atmosphere full version includes(with sigpatch):
 * nx-theme-installer(install themes on switch)
 * N-Xplorer(another switch file manager)
 * switch cheat updater(update cheat online)
+* reboot to payload
 
 plugin : 
 * missioncontrol(sysmodule for third-party controller support with bluetooth)(not support sxos)
@@ -42,8 +44,47 @@ plugin :
 * tesla menu(initial overlay menu to be loaded by nx-ovlloader)
 * sysclk(overclocked switch)
 
+atmosphere minimal version includes:
+* sigpatch for atmosphere
+* exosphere.ini(Incognito applied)
+* daybreak
+* reboot to payload
+
+sxos full version includes:
+* hbg shop((with jits.cc)(language has changed to chinese)
+* awoo installer(multi games format installer)
+* ftpd(required filezilla)
+* idn_mitm(lan play)
+* sysdvr(stream switch games to pc)
+* emuiibo(amiibo emulated)
+* aio-switch-updater(update CFWs, sigpatches, FWs and cheat codes)
+* hb-appstore(homebrew app downloader)
+* linkalho(link fake Nintendo account without delete saves)
+* DBI
+* Sxdumper(dump gamecard)
+* NXDumptool(dump gamecard)
+* Choidujournx(offline update firmware. compatible with both atmosphere and sxos)
+* nxmtp(transfer file with usb cable)
+* Nx-shell(switch file manager)
+* JKSV(function as like as checkpoint，eject or inject save)
+* pplay(a video player for the Nintendo Switch)
+* playernx
+* nx-theme-installer(install themes on switch)
+* N-Xplorer(another switch file manager)
+* switch cheat updater(update cheat online)
+
+plugin : 
+* sx autoloader 1.4(auto laod switch xci games on home screen)
+* syscon(sysmodule for third-party controller support with usb connection)
+* tesla menu(initial overlay menu to be loaded by nx-ovlloader)
+* sysclk(overclocked switch)
+
+
 notes: 
 * nxthemeinstaller, missioncontrol not work for HOS 11.0.0
 * edizon not work for sxos
 
-sxos
+Credits / Sources:
+* atmospherehttps://github.com/Atmosphere-NX/Atmosphere
+*
+
