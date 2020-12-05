@@ -36,7 +36,7 @@ atmosphere aio package includes(with sigpatch):
 * N-Xplorer(another switch file manager)
 
 plugin : 
-missioncontrol
-syscon
-tesla menu
-sysclk(overclocked switch)
+* missioncontrol
+* syscon
+* tesla menu(initial overlay menu to be loaded by nx-ovlloader)
+* sysclk(overclocked switch)
