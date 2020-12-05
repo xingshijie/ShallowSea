@@ -17,9 +17,9 @@ atmosphere aio package includes(with sigpatch):
 * awoo installer
 * sysdvr(stream switch games to pc)
 * emuiibo(amiibo emulated)
-* aio-switch-updater(sigpatch，cheat etc. updater)
+* aio-switch-updater(update CFWs, sigpatches, FWs and cheat codes)
 * hb-appstore(homebrew app downloader)
-* edizon 4.0(cheat)
+* edizon 4.0(cheat app)
 * linkalho(link fake Nintendo account without delete saves)
 * DBI
 * Deepsea toolbox(u can choose to reboot to hekate)
