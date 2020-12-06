@@ -2,10 +2,10 @@
 The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee primary or hekate) and sxos.
 
 Poor English version readme below
-warning!!! : 
+# warning!!! : 
 * If you are first time to hack switch, strongly recommend you make sd file emuMMC.
 
-Update aio-package guide(for beginners):
+# Update aio-package guide(for beginners):
 * If you are Atmosphere user: Delete all the folders but not (Nintendo,emuMMC,JKSV) folders. Then unzip shallowsea/full(or minimal)/atmosphere X.XX.X/ into your sd card.
 * If you are sxos user: Delete all the folders but not (Nintendo,sxos,Emutendo,JKSV) folders. Then unzip shallowsea/full(or minimal)/sxos X.X.X/ into your sd card.
 
