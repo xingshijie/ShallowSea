@@ -89,7 +89,7 @@ notes:
 * edizon not work for sxos
 
 Credits / Sources:
-* atmosphere https://github.com/Atmosphere-NX/Atmosphere
+* [atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
 * atmosphere sigpatch https://github.com/ITotalJustice/
 * hekate https://github.com/CTCaer/hekate
 * deeepsea toolbox https://github.com/Team-Neptune/DeepSea-Toolbox
