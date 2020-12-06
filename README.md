@@ -94,4 +94,4 @@ Credits / Sources:
 * hekate https://github.com/CTCaer/hekate
 * deeepsea toolbox https://github.com/Team-Neptune/DeepSea-Toolbox
 * hbg shop(without jits.cc) https://thehbg.shop/main.html
-* awoo installper https://github.com/Huntereb/Awoo-Installer
+* awoo installer https://github.com/Huntereb/Awoo-Installer
