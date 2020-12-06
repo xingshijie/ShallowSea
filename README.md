@@ -11,39 +11,39 @@ Poor English version readme below
 
 ## atmosphere full version includes:
 * sigpatch for atmosphere
-* exosphere.ini(Incognito applied)
+* exosphere.ini (Incognito applied)
 * hekate
-* hbg shop((with jits.cc)(language has changed to chinese)
-* awoo installer(multi games format installer)
-* ftpd(required filezilla)
-* idn_mitm(lan play)
-* sysdvr(stream switch games to pc)
-* emuiibo(amiibo emulated)
-* aio-switch-updater(update CFWs, sigpatches, FWs and cheat codes)
-* hb-appstore(homebrew app downloader)
-* edizon 4.0(cheat app)
-* linkalho(link fake Nintendo account without delete saves)
+* hbg shop (with jits.cc)(language has changed to chinese)
+* awoo installer (multi games format installer)
+* ftpd (required filezilla)
+* idn_mitm (lan play)
+* sysdvr (stream switch games to pc)
+* emuiibo (amiibo emulated)
+* aio-switch-updater (update CFWs, sigpatches, FWs and cheat codes)
+* hb-appstore (homebrew app downloader)
+* edizon 4.0 (cheat app)
+* linkalho (link fake Nintendo account without delete saves)
 * DBI
-* Deepsea toolbox(u can choose to reboot to hekate)
-* NXDumptool(dump gamecard)
-* daybreak(offline update firmware，not compatible with sxos)
-* Choidujournx(offline update firmware. compatible with both atmosphere and sxos)
-* nxmtp(transfer file with usb cable)
-* Nx-shell(switch file manager)
-* JKSV(function as like as checkpoint，eject or inject save)
-* sigpatch-updater(update sigpatch online)
-* pplay(a video player for the Nintendo Switch)
+* Deepsea toolbox (u can choose to reboot to hekate)
+* NXDumptool (dump gamecard)
+* daybreak (offline update firmware，not compatible with sxos)
+* Choidujournx (offline update firmware. compatible with both atmosphere and sxos)
+* nxmtp (transfer file with usb cable)
+* Nx-shell (switch file manager)
+* JKSV (function as like as checkpoint，eject or inject save)
+* sigpatch-updater (update sigpatch online)
+* pplay (a video player for the Nintendo Switch)
 * playernx
-* nx-theme-installer(install themes on switch)
-* N-Xplorer(another switch file manager)
-* switch cheat updater(update cheat online)
+* nx-theme-installer (install themes on switch)
+* N-Xplorer (another switch file manager)
+* switch cheat updater (update cheat online)
 * reboot to payload
 
 plugin : 
-* missioncontrol(sysmodule for third-party controller support with bluetooth)(not support sxos)
-* syscon(sysmodule for third-party controller support with usb connection)
-* tesla menu(initial overlay menu to be loaded by nx-ovlloader)
-* sysclk(overclocked switch)
+* missioncontrol (sysmodule for third-party controller support with bluetooth)(not support sxos)
+* syscon (sysmodule for third-party controller support with usb connection)
+* tesla menu (initial overlay menu to be loaded by nx-ovlloader)
+* sysclk (overclocked switch)
 
 ## atmosphere minimal version includes:
 * sigpatch for atmosphere
@@ -55,40 +55,40 @@ plugin :
 
 ## sxos full version includes:
 * hekate
-* hbg shop((with jits.cc)(language has changed to chinese)
-* awoo installer(multi games format installer)
-* ftpd(required filezilla)
-* idn_mitm(lan play)
-* sysdvr(stream switch games to pc)
-* emuiibo(amiibo emulated)
-* aio-switch-updater(update CFWs, sigpatches, FWs and cheat codes)
-* hb-appstore(homebrew app downloader)
-* linkalho(link fake Nintendo account without delete saves)
+* hbg shop (with jits.cc)(language has changed to chinese)
+* awoo installer (multi games format installer)
+* ftpd (required filezilla)
+* idn_mitm (lan play)
+* sysdvr (stream switch games to pc)
+* emuiibo (amiibo emulated)
+* aio-switch-updater (update CFWs, sigpatches, FWs and cheat codes)
+* hb-appstore (homebrew app downloader)
+* linkalho (link fake Nintendo account without delete saves)
 * DBI
-* Sxdumper(dump gamecard)
-* NXDumptool(dump gamecard)
-* Choidujournx(offline update firmware. compatible with both atmosphere and sxos)
-* nxmtp(transfer file with usb cable)
-* Nx-shell(switch file manager)
-* JKSV(function as like as checkpoint，eject or inject save)
-* pplay(a video player for the Nintendo Switch)
+* Sxdumper (dump gamecard)
+* NXDumptool (dump gamecard)
+* Choidujournx (offline update firmware. compatible with both atmosphere and sxos)
+* nxmtp (transfer file with usb cable)
+* Nx-shell (switch file manager)
+* JKSV (function as like as checkpoint，eject or inject save)
+* pplay (a video player for the Nintendo Switch)
 * playernx
-* nx-theme-installer(install themes on switch)
-* N-Xplorer(another switch file manager)
-* switch cheat updater(update cheat online)
+* nx-theme-installer (install themes on switch)
+* N-Xplorer (another switch file manager)
+* switch cheat updater (update cheat online)
 
 plugin : 
-* sx autoloader 1.4(auto laod switch xci games on home screen)
-* syscon(sysmodule for third-party controller support with usb connection)
-* tesla menu(initial overlay menu to be loaded by nx-ovlloader)
-* sysclk(overclocked switch)
+* sx autoloader 1.4 (auto laod switch xci games on home screen)
+* syscon (sysmodule for third-party controller support with usb connection)
+* tesla menu (initial overlay menu to be loaded by nx-ovlloader)
+* sysclk (overclocked switch)
 
 ##　sxos minimal version includes:
 * 
 
 notes: 
-* nxthemeinstaller, missioncontrol not work for HOS 11.0.0
-* edizon not work for sxos
+* nxthemeinstaller not work for 0.16.0
+* edizon,missioncontrol not work for sxos
 
 Credits / Sources:
 * [atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
