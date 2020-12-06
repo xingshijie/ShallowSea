@@ -9,7 +9,7 @@ Update aio-package guide(for beginners):
 * If you are Atmosphere user: Delete all the folders but not (Nintendo,emuMMC,JKSV) folders. Then unzip shallowsea/full(or minimal)/atmosphere X.XX.X/ into your sd card.
 * If you are sxos user: Delete all the folders but not (Nintendo,sxos,Emutendo,JKSV) folders. Then unzip shallowsea/full(or minimal)/sxos X.X.X/ into your sd card.
 
---atmosphere full version includes:
+## atmosphere full version includes:
 * sigpatch for atmosphere
 * exosphere.ini(Incognito applied)
 * hekate
@@ -45,7 +45,7 @@ plugin :
 * tesla menu(initial overlay menu to be loaded by nx-ovlloader)
 * sysclk(overclocked switch)
 
---atmosphere minimal version includes:
+## atmosphere minimal version includes:
 * sigpatch for atmosphere
 * exosphere.ini(Incognito applied)
 * hekate
@@ -53,7 +53,7 @@ plugin :
 * reboot to payload
 * hb-appstore
 
---sxos full version includes:
+## sxos full version includes:
 * hekate
 * hbg shop((with jits.cc)(language has changed to chinese)
 * awoo installer(multi games format installer)
@@ -83,6 +83,8 @@ plugin :
 * tesla menu(initial overlay menu to be loaded by nx-ovlloader)
 * sysclk(overclocked switch)
 
+##　sxos minimal version includes:
+* 
 
 notes: 
 * nxthemeinstaller, missioncontrol not work for HOS 11.0.0
