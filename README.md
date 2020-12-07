@@ -11,39 +11,39 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 
 # 大氣層完整版本整合包包括:
 大氣層sigpatch
-exosphere.ini（應用了隱身模式）
-hekate
-hbg商店（帶有jits.cc，redump shop，quotas shop，eeveesaveproject）（語言已更改為中文）
-awoo安裝程序（遊戲安裝軟件，支援格式xci,xcz,nsp,nsz）
-ftpd (電腦遠端控制sd卡文件)(需要filezilla)
-idn_mitm（lan play）
-sysdvr（輸出遊戲畫面到電腦）
-emuiibo（模擬amiibo）
-aio-switch-updater（更新CFW，sigpatches，FW和金手指）
-hb-appstore（自製軟件下載器）
-edizon 4.0（金手指軟件）
-linkalho（鏈接虛假的任天堂帳戶，不刪除用户遊戲保存）
-DBI
-Deepsea工具箱（可以重新啟動到hekate）
-NXDumptool（轉儲遊戲卡）
-daybreak（離線更新固件，與sxos不兼容）
-Choidujournx（離線更新固件。與大氣和sxos兼容）
-nxmtp（使用USB電纜傳輸文件）
-Nx-shell（switch文件管理器）
-JKSV（功能類似於checkpoint，導出和導入保存）
-sigpatch-updater（在線更新大氣層sigpatch）
-pplay（Nintendo Switch的視頻播放器）
-Playernx
-nx-theme-installer（在switch上安裝螢幕桌布）
-N-Xplorer（另一個交換文件管理器）
-switch-cheat-updater（在線更新金手指）
-reboot to payload
+* exosphere.ini（應用了隱身模式）
+* hekate
+* hbg shop黑商店（帶有jits.cc，redump shop，quotas shop，eeveesaveproject）（語言已更改為中文）
+* awoo installer（遊戲安裝軟件，支援格式xci,xcz,nsp,nsz）
+* ftpd (電腦遠端控制sd卡文件)(需要filezilla)
+* idn_mitm（lan play）
+* sysdvr（輸出遊戲畫面到電腦）
+* emuiibo（模擬amiibo）
+* aio-switch-updater（更新CFW，sigpatches，FW和金手指）
+* hb-appstore（自製軟件下載器）
+* edizon 4.0（金手指軟件）
+* linkalho（鏈接虛假的任天堂帳戶，不刪除用户遊戲保存）
+* DBI
+* Deepsea toolbox（可以重新啟動到hekate）
+* NXDumptool（轉儲遊戲卡）
+* daybreak（離線更新固件，與sxos不兼容）
+* Choidujournx (大白兔)（離線更新固件。與大氣和sxos兼容）
+* nxmtp（使用USB電纜傳輸文件）
+* Nx-shell（switch文件管理器）
+* JKSV（功能類似於checkpoint，導出和導入保存）
+* sigpatch-updater（在線更新大氣層sigpatch）
+* pplay（Nintendo Switch的視頻播放器）
+* Playernx
+* nx-theme-installer（在switch上安裝螢幕桌布）
+* N-Xplorer（另一個交換文件管理器）
+* switch-cheat-updater（在線更新金手指）
+* reboot to payload
 
 插件 ：
-missioncontrol（使用帶有藍牙的第三方控制器而無需轉換器）（不支持sxos）
-syscon（用於具有USB連接的第三方控制器而無需轉換器）
-tesla菜單（由nx-ovlloader加載的初始覆蓋菜單）
-sysclk（超頻switch軟件）
+* missioncontrol（使用帶有藍牙的第三方控制器而無需轉換器）（不支持sxos）
+* syscon（用於具有USB連接的第三方控制器而無需轉換器）
+* tesla菜單（由nx-ovlloader加載的初始覆蓋菜單）
+* sysclk（超頻switch軟件）
 
 Poor English version readme
 # warning!!! : 
