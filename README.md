@@ -84,7 +84,7 @@ plugin :
 * tesla menu (initial overlay menu to be loaded by nx-ovlloader)
 * sysclk (overclocked switch)
 
-##　sxos minimal version includes:
+## sxos minimal version includes:
 * sxos boot.dat
 * hb-appstore
 
