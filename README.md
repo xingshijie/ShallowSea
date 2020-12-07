@@ -93,9 +93,9 @@ notes:
 * edizon,missioncontrol not work for sxos
 
 Credits / Sources:
-* [atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
-* [atmosphere sigpatch](https://github.com/ITotalJustice/)
+* [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
+* [Atmosphere sigpatch](https://github.com/ITotalJustice/)
 * [hekate](https://github.com/CTCaer/hekate)
-* [deeepsea toolbox](https://github.com/Team-Neptune/DeepSea-Toolbox)
+* [Deeepsea toolbox](https://github.com/Team-Neptune/DeepSea-Toolbox)
 * [hbg shop(without jits.cc,redump shop,quotas shop,eeveesaveproject)](https://thehbg.shop/main.html)
 * [awoo installer](https://github.com/Huntereb/Awoo-Installer)
