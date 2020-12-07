@@ -4,6 +4,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 中文版本說明:
 # 警告！！！ :
 * 如果你是第一次破解switch，強烈建議你弄虛擬系統。
+* sxos需自購激活碼
 
 # 更新整合包指南(給初學者):
 * 如果您是大氣層用戶：除了（Nintendo，emuiibo，emuMMC，JKSV）文件夾，刪除其餘文件夾。然後將 shallowsea/atmosphere X.XX.X/full（or minimal)/ 裏面所有東西解壓縮放到SD卡中。
@@ -55,7 +56,8 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 
 Poor English version readme
 # warning!!! : 
-* If you are first time to hack switch, strongly recommend you make sd file emuMMC.
+* If you are first time to hack switch, strongly recommend you to make emuMMC/emunand.
+* sxos need license.dat (buy sxos license yourself)
 
 # Update aio-package guide(for beginners):
 * If you are Atmosphere user: Delete all the folders but not (Nintendo,emuiibo,emuMMC,JKSV) folders. Then drape and drop shallowsea/atmosphere X.XX.X/full（or minimal)/ into your sd card.
@@ -106,6 +108,7 @@ plugin :
 * hb-appstore
 
 ## sxos full version includes:
+
 * hekate
 * hbg shop (language has changed to chinese)
 * awoo installer (multi games format installer)
