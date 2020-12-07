@@ -1,13 +1,20 @@
 # ShallowSea
-The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee primary version) and sxos.
+The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee primary version) and sxos. 有中文版本指南 & English version readme
 
-Poor English version readme below
+中文版本說明:
+# 警告！！！ :
+* 如果你是第一次破解switch，強烈建議你弄虛擬系統。
+
+# 更新整合包指南(給初學者):
+* 如果您是大氣層用戶：除了（Nintendo，emuiibo，emuMMC，JKSV）文件夾，刪除其餘文件夾。然後將 shallowsea/atmosphere X.XX.X/full（or minimal)/ 裏面所有東西解壓縮放到SD卡中。
+* 如果您是sxos用戶：除了（Nintendo，emuiibo，sxos/emunand，Emutendo，JKSV）文件夾，刪除其餘文件夾。然後將 shallowsea/sxos X.X.X/full（or minimal)/ 裏面所有東西解壓縮放到SD卡中。
+Poor English version readme
 # warning!!! : 
 * If you are first time to hack switch, strongly recommend you make sd file emuMMC.
 
 # Update aio-package guide(for beginners):
-* If you are Atmosphere user: Delete all the folders but not (Nintendo,emuiibo,emuMMC,JKSV) folders. Then drape and drop shallowsea/full(or minimal)/atmosphere X.XX.X/ into your sd card.
-* If you are sxos user: Delete all the folders but not (Nintendo,emuiibo,sxos,Emutendo,JKSV) folders. Then drape and drop shallowsea/full(or minimal)/sxos X.X.X/ into your sd card.
+* If you are Atmosphere user: Delete all the folders but not (Nintendo,emuiibo,emuMMC,JKSV) folders. Then drape and drop shallowsea/atmosphere X.XX.X/full（or minimal)/ into your sd card.
+* If you are sxos user: Delete all the folders but not (Nintendo,emuiibo,sxos/emunand,Emutendo,JKSV) folders. Then drape and drop shallowsea/sxos X.X.X/full（or minimal)/ into your sd card.
 
 ## atmosphere full version includes:
 * sigpatch for atmosphere
