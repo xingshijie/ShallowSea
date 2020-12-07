@@ -45,6 +45,14 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * tesla菜單（由nx-ovlloader加載的初始覆蓋菜單）
 * sysclk（超頻switch軟件）
 
+# 大氣層精簡整合包包括:
+* 大氣層sigpatch
+* exosphere.ini(應用了隱身模式)
+* hekate
+* daybreak(離線更新固件)(不適用sxos)
+* reboot to payload
+* hb-appstore(自製軟件下載器)
+
 Poor English version readme
 # warning!!! : 
 * If you are first time to hack switch, strongly recommend you make sd file emuMMC.
