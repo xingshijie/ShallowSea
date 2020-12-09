@@ -85,6 +85,9 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * tesla menu (快捷菜單)（由nx-ovlloader加載的初始覆蓋菜單）
 * sysclk（超頻軟件）
 
+
+
+
 Poor English version readme
 # warning!!! : 
 * If you are first time to hack switch, strongly recommend you to make emuMMC/emunand.
