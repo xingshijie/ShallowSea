@@ -84,7 +84,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * syscon (無需額外轉接器，即可用usb線連接第三方手柄，etc. ps3 ps4 xbox one xbox360等手柄)
 * tesla menu (快捷菜單)（由nx-ovlloader加載的初始覆蓋菜單）
 * sysclk（超頻軟件）
-……………………
+
 Poor English version readme
 # warning!!! : 
 * If you are first time to hack switch, strongly recommend you to make emuMMC/emunand.
