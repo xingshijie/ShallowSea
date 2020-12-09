@@ -41,8 +41,8 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * reboot to payload
 
 插件 ：
-* missioncontrol（使用帶有藍牙的第三方控制器而無需轉換器）（不支持sxos）
-* syscon（用於具有USB連接的第三方控制器而無需轉換器）
+* missioncontrol (無需額外轉接器，即可直接用第三方手柄 藍牙連接switch，etc. ps4手柄)（不支持sxos）
+* syscon（無需額外轉接器，即可用usb線連接第三方手柄，etc. ps3 ps4 xbox one xbox360等手柄）
 * tesla菜單（由nx-ovlloader加載的初始覆蓋菜單）
 * sysclk（超頻switch軟件）
 
@@ -54,6 +54,37 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * reboot to payload
 * hb-appstore(自製軟件下載器)
 
+# sxos完整版本整合包包括:
+hekate
+hbg shop黑商店(已加入jits.cc,redump shop,quotas shop,eeveesaveproject)（語言已更改為中文）
+awoo installer（遊戲安裝器，支援各種格式遊戲檔案，nsp nsz xci xcz）
+ftpd (遠端控制switch SD文件)（需要filezilla）
+idn_mitm（lan play局域網播放）
+sysdvr（把遊戲畫面投影到電腦）
+emuiibo（模擬amiibo）
+aio-switch-updater（在線更新CFW，sigpatches，FW和金手指）
+hb-appstore（自製軟件下載器）
+linkalho（鏈接虛假的任天堂帳戶，不刪除用户保存）
+DBI
+Sxdumper（轉儲遊戲卡）(不支援大氣層)
+NXDumptool（轉儲遊戲卡）
+Choidujournx（離線更新固件。與大氣層和sxos兼容）
+nxmtp（使用USB線傳輸文件到電腦）
+Nx-shell（switch文件管理器）
+JKSV（功能類似於checkpoint，導出導入保存）
+pplay（Nintendo Switch的視頻播放器）
+Playernx
+nx-theme-installer（在switch上安裝螢幕桌布）
+N-Xplorer（另一個switch文件管理器）
+switch-cheat-updater（在線更新金手指）
+sxos boot.dat
+
+插件 ：
+sx autoloader 1.4（在桌面直接加載xci相簿遊戲)
+syscon (無需額外轉接器，即可用usb線連接第三方手柄，etc. ps3 ps4 xbox one xbox360等手柄)
+tesla menu (快捷菜單)（由nx-ovlloader加載的初始覆蓋菜單）
+sysclk（超頻軟件）
+……………………
 Poor English version readme
 # warning!!! : 
 * If you are first time to hack switch, strongly recommend you to make emuMMC/emunand.
