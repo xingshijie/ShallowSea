@@ -7,7 +7,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * sxos需自購激活碼
 
 # 更新整合包指南(給初學者):
-* 如果您是大氣層用戶：除了（Nintendo，emuiibo，emuMMC，JKSV）文件夾，刪除其餘文件夾。然後將 shallowsea/atmosphere X.XX.X/full（or minimal)/ 裏面所有東西解壓縮放到SD卡中。
+* 如果您是大氣層用戶：除了（Nintendo，emuiibo，emuMMC，JKSV）文件夾，刪除其餘文件夾。從[這裡](https://github.com/carcaschoi/ShallowSea/release)下載整合包，然後將 shallowsea/atmosphere X.XX.X/full（or minimal)/ 裏面所有東西解壓縮放到SD卡中。
 * 如果您是sxos用戶：除了（Nintendo，emuiibo，sxos/emunand，Emutendo，JKSV）文件夾，刪除其餘文件夾。然後將 shallowsea/sxos X.X.X/full（or minimal)/ 裏面所有東西解壓縮放到SD卡中。
 
 # 大氣層完整版本整合包包括:
