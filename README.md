@@ -196,3 +196,7 @@ Credits / Sources:
 * [hb-appstore](https://github.com/fortheusers/hb-appstore)
 * [edizon](https://github.com/WerWolv/EdiZon)
 * [linkalho](https://github.com/rdmrocha/linkalho)
+* [Deepsea toolbox](https://github.com/Team-Neptune/DeepSea-Toolbox)
+* [nxdumptool](https://github.com/DarkMatterCore/nxdumptool)
+* [choijournx](https://switchtools.sshnuke.net/)
+* [
