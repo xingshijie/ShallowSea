@@ -7,8 +7,8 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * sxos需自購激活碼
 
 # 更新整合包指南(給初學者):
-* 如果您是大氣層用戶：除了（Nintendo，emuiibo，emuMMC，JKSV）文件夾，刪除其餘文件夾。從[這裡](https://github.com/carcaschoi/ShallowSea/release)下載整合包，然後將 shallowsea/atmosphere X.XX.X/full（or minimal)/ 裏面所有東西解壓縮放到SD卡中。
-* 如果您是sxos用戶：除了（Nintendo，emuiibo，sxos/emunand，Emutendo，JKSV）文件夾，刪除其餘文件夾。然後將 shallowsea/sxos X.X.X/full（or minimal)/ 裏面所有東西解壓縮放到SD卡中。
+* 如果您是大氣層用戶：除了（Nintendo，emuiibo，emuMMC，JKSV）文件夾，刪除其餘文件夾。從[這裡](https://github.com/carcaschoi/ShallowSea/releases)下載整合包，然後將 shallowsea/atmosphere X.XX.X/full（or minimal)/ 裏面所有東西解壓縮放到SD卡中。
+* 如果您是sxos用戶：除了（Nintendo，emuiibo，sxos/emunand，license.dat，Emutendo，JKSV）文件夾，刪除其餘文件夾。從[這裡](https://github.com/carcaschoi/ShallowSea/releases)下載整合包，然後將 shallowsea/sxos X.X.X/full（or minimal)/ 裏面所有東西解壓縮放到SD卡中。
 
 # 大氣層完整版本整合包包括:
 * 大氣層sigpatch
@@ -16,7 +16,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * hekate
 * hbg shop黑商店（帶有jits.cc，redump shop，quotas shop，eeveesaveproject）（語言已更改為中文）
 * awoo installer（遊戲安裝軟件，支援格式xci,xcz,nsp,nsz）
-* ftpd (電腦遠端控制sd卡文件)(需要filezilla)
+* ftpd (電腦遠端控制sd卡文件)(需要[filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe))
 * idn_mitm（lan play）
 * sysdvr（輸出遊戲畫面到電腦）
 * emuiibo（模擬amiibo）
@@ -58,7 +58,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * hekate
 * hbg shop黑商店(已加入jits.cc,redump shop,quotas shop,eeveesaveproject)（語言已更改為中文）
 * awoo installer（遊戲安裝器，支援各種格式遊戲檔案，nsp nsz xci xcz）
-* ftpd (遠端控制switch SD文件)（需要filezilla）
+* ftpd (遠端控制switch SD文件)（需要[filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe)）
 * idn_mitm（lan play局域網播放）
 * sysdvr（把遊戲畫面投影到電腦）
 * emuiibo（模擬amiibo）
@@ -103,7 +103,7 @@ Poor English version readme
 * hekate
 * hbg shop (with jits.cc,redump shop,quotas shop,eeveesaveproject)(language has changed to chinese)
 * awoo installer (multi games format installer)
-* ftpd (required filezilla)
+* ftpd (required [filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe))
 * idn_mitm (lan play)
 * sysdvr (stream switch games to pc)
 * emuiibo (amiibo emulated)
@@ -146,7 +146,7 @@ plugin :
 * hekate
 * hbg shop (language has changed to chinese)
 * awoo installer (multi games format installer)
-* ftpd (required filezilla)
+* ftpd (required [filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe))
 * idn_mitm (lan play)
 * sysdvr (stream switch games to pc)
 * emuiibo (amiibo emulated)
@@ -188,3 +188,11 @@ Credits / Sources:
 * [Deeepsea toolbox](https://github.com/Team-Neptune/DeepSea-Toolbox)
 * [hbg shop(without jits.cc,redump shop,quotas shop,eeveesaveproject)](https://thehbg.shop/main.html)
 * [awoo installer](https://github.com/Huntereb/Awoo-Installer)
+* [ftpd](https://github.com/mtheall/ftpd)
+* [idn_mitm](https://github.com/spacemeowx2/ldn_mitm)
+* [sysdvr](https://github.com/exelix11/SysDVR/)
+* [emuiibo](https://github.com/XorTroll/emuiibo/)
+* [aio-switch-updater](https://github.com/HamletDuFromage/AIO-switch-updater)
+* [hb-appstore](https://github.com/fortheusers/hb-appstore)
+* [edizon](https://github.com/WerWolv/EdiZon)
+* [linkalho](https://github.com/rdmrocha/linkalho)
