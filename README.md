@@ -44,6 +44,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 插件 ：
 * missioncontrol (無需額外轉接器，即可直接用第三方手柄 藍牙連接switch，etc. ps4手柄)（不支持sxos）
 * syscon（無需額外轉接器，即可用usb線連接第三方手柄，etc. ps3 ps4 xbox one xbox360等手柄）
+* nx-ovlloader
 * tesla菜單（由nx-ovlloader加載的初始覆蓋菜單）
 * sysclk（超頻switch軟件）
 
@@ -84,6 +85,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * sx autoloader 1.4（在桌面直接加載xci相簿遊戲)
 * syscon (無需額外轉接器，即可用usb線連接第三方手柄，etc. ps3 ps4 xbox one xbox360等手柄)
 * tesla menu (快捷菜單)（由nx-ovlloader加載的初始覆蓋菜單）
+* nx-ovlloader
 * sysclk（超頻軟件）
 
 # sxos精簡整合包包括:
@@ -136,6 +138,7 @@ plugin :
 * missioncontrol (sysmodule for third-party controller support with bluetooth)(not support sxos)
 * syscon (sysmodule for third-party controller support with usb connection)
 * tesla menu (initial overlay menu to be loaded by nx-ovlloader)
+* nx-ovlloader
 * sysclk (overclocked switch)
 
 ## atmosphere minimal version includes:
@@ -176,6 +179,7 @@ plugin :
 * sx autoloader 1.4 (auto laod switch xci games on home screen)
 * syscon (sysmodule for third-party controller support with usb connection)
 * tesla menu (initial overlay menu to be loaded by nx-ovlloader)
+* nx-ovlloader
 * sysclk (overclocked switch)
 
 ## sxos minimal version includes:
@@ -214,3 +218,7 @@ Credits / Sources:
 * [N-Xplorer](https://github.com/CompSciOrBust/N-Xplorer)
 * [switch-cheat-updater](https://github.com/HamletDuFromage/switch-cheats-updater)
 * [sxos items(such as sxos boot.dat)](sx.xecuter.com)
+* [missioncontrol](https://github.com/ndeadly/MissionControl)
+* [syscon](https://github.com/cathery/sys-con)
+* [tesla menu](https://github.com/WerWolv/Tesla-Menu)
+* [sysclk](https://github.com/retronx-team/sys-clk)
