@@ -7,13 +7,14 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * sxos需自購激活碼
 
 # 更新整合包指南(給初學者):
-* 如果您是大氣層用戶：除了（Nintendo，emuiibo，emuMMC，JKSV）文件夾，刪除其餘文件夾。從[這裡](https://github.com/carcaschoi/ShallowSea/releases)下載整合包，然後將 shallowsea/atmosphere X.XX.X/full（or minimal)/ 裏面所有東西解壓縮放到SD卡中。
-* 如果您是sxos用戶：除了（Nintendo，emuiibo，sxos/emunand，license.dat，Emutendo，JKSV）文件夾，刪除其餘文件夾。從[這裡](https://github.com/carcaschoi/ShallowSea/releases)下載整合包，然後將 shallowsea/sxos X.X.X/full（or minimal)/ 裏面所有東西解壓縮放到SD卡中。
+* 從[這裡](https://github.com/carcaschoi/ShallowSea/releases)下載整合包，
+* 如果您是大氣層用戶：除了（Nintendo，emuiibo，emuMMC，JKSV）文件夾，刪除其餘文件夾。然後將 shallowsea/atmosphere X.XX.X/full（or minimal)/ 裏面所有東西解壓縮放到SD卡中。
+* 如果您是sxos用戶：除了（Nintendo，emuiibo，sxos/emunand，license.dat，Emutendo，JKSV）文件夾，刪除其餘文件夾。然後將 shallowsea/sxos X.X.X/full（or minimal)/ 裏面所有東西解壓縮放到SD卡中。
 
 # 大氣層完整版本整合包包括:
 * 大氣層sigpatch
 * exosphere.ini（應用了隱身模式）
-* hekate
+* hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
 * hbg shop黑商店（帶有jits.cc，redump shop，quotas shop，eeveesaveproject）（語言已更改為中文）
 * awoo installer（遊戲安裝軟件，支援格式xci,xcz,nsp,nsz）
 * ftpd (電腦遠端控制sd卡文件)(需要[filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe))
@@ -49,13 +50,13 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 # 大氣層精簡整合包包括:
 * 大氣層sigpatch
 * exosphere.ini(應用了隱身模式)
-* hekate
+* hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
 * daybreak(離線更新固件)(不適用sxos)
 * reboot to payload
 * hb-appstore(自製軟件下載器)
 
 # sxos完整版本整合包包括:
-* hekate
+* hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
 * hbg shop黑商店(已加入jits.cc,redump shop,quotas shop,eeveesaveproject)（語言已更改為中文）
 * awoo installer（遊戲安裝器，支援各種格式遊戲檔案，nsp nsz xci xcz）
 * ftpd (遠端控制switch SD文件)（需要[filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe)）
@@ -85,7 +86,10 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * tesla menu (快捷菜單)（由nx-ovlloader加載的初始覆蓋菜單）
 * sysclk（超頻軟件）
 
-
+# sxos精簡整合包包括:
+* sxos boot.dat
+* hb-appstore
+* hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
 
 
 Poor English version readme
@@ -94,13 +98,14 @@ Poor English version readme
 * sxos need license.dat (buy sxos license yourself)
 
 # Update aio-package guide(for beginners):
+* Download aio package from [here](https://github.com/carcaschoi/ShallowSea/releases)
 * If you are Atmosphere user: Delete all the folders but not (Nintendo,emuiibo,emuMMC,JKSV) folders. Then drape and drop shallowsea/atmosphere X.XX.X/full（or minimal)/ into your sd card.
 * If you are sxos user: Delete all the folders but not (Nintendo,emuiibo,sxos/emunand,Emutendo,JKSV) folders. Then drape and drop shallowsea/sxos X.X.X/full（or minimal)/ into your sd card.
 
 ## atmosphere full version includes:
 * sigpatch for atmosphere
 * exosphere.ini (Incognito applied)
-* hekate
+* hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
 * hbg shop (with jits.cc,redump shop,quotas shop,eeveesaveproject)(language has changed to chinese)
 * awoo installer (multi games format installer)
 * ftpd (required [filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe))
@@ -136,14 +141,14 @@ plugin :
 ## atmosphere minimal version includes:
 * sigpatch for atmosphere
 * exosphere.ini(Incognito applied)
-* hekate
+* hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
 * daybreak
 * reboot to payload
 * hb-appstore
 
 ## sxos full version includes:
 
-* hekate
+* hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
 * hbg shop (language has changed to chinese)
 * awoo installer (multi games format installer)
 * ftpd (required [filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe))
@@ -176,6 +181,7 @@ plugin :
 ## sxos minimal version includes:
 * sxos boot.dat
 * hb-appstore
+* hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
 
 notes: 
 * idn_mitm not work for 11.0.0/0.16.0
@@ -183,7 +189,8 @@ notes:
 
 Credits / Sources:
 * [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
-* [Atmosphere sigpatch](https://github.com/ITotalJustice/)
+* [Atmosphere sigpatch](https://github.com/ITotalJustice/patches)
+* [sigpatch updater](https://github.com/ITotalJustice/sigpatch-updater)
 * [hekate](https://github.com/CTCaer/hekate)
 * [Deeepsea toolbox](https://github.com/Team-Neptune/DeepSea-Toolbox)
 * [hbg shop(without jits.cc,redump shop,quotas shop,eeveesaveproject)](https://thehbg.shop/main.html)
@@ -199,4 +206,11 @@ Credits / Sources:
 * [Deepsea toolbox](https://github.com/Team-Neptune/DeepSea-Toolbox)
 * [nxdumptool](https://github.com/DarkMatterCore/nxdumptool)
 * [choijournx](https://switchtools.sshnuke.net/)
-* [
+* [nxmtp](https://github.com/liuervehc/nxmtp)
+* [nx shell](https://github.com/joel16/NX-Shell)
+* [jksv](https://github.com/J-D-K/JKSV)
+* [pplay](https://github.com/Cpasjuste/pplay)
+* [nxthemeinstaller](https://github.com/exelix11/SwitchThemeInjector)
+* [N-Xplorer](https://github.com/CompSciOrBust/N-Xplorer)
+* [switch-cheat-updater](https://github.com/HamletDuFromage/switch-cheats-updater)
+* [sxos items(such as sxos boot.dat)](sx.xecuter.com)
