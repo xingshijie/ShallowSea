@@ -222,7 +222,7 @@ Credits / Sources:
 * [nxthemeinstaller](https://github.com/exelix11/SwitchThemeInjector)
 * [N-Xplorer](https://github.com/CompSciOrBust/N-Xplorer)
 * [switch-cheat-updater](https://github.com/HamletDuFromage/switch-cheats-updater)
-* [nx ntpc](
+* [nx ntpc](https://github.com/thedax/NX-ntpc)
 * [sxos items(such as sxos boot.dat, sxos.bin)](sx.xecuter.com)
 * [missioncontrol](https://github.com/ndeadly/MissionControl)
 * [syscon](https://github.com/cathery/sys-con)
