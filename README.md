@@ -4,7 +4,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 
 中文版本說明:
 # 警告！！！ :
-* 如果你是第一次破解switch，強烈建議你弄虛擬系統。
+* 如果你是第一次破解switch，強烈建議你弄虛擬系統，以防被任天堂禁止網絡服務(ban機)
 * sxos需自購激活碼
 
 # 更新整合包指南(給初學者):
