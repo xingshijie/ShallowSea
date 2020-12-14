@@ -40,6 +40,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * nx-theme-installer（在switch上安裝螢幕桌布）
 * N-Xplorer（另一個交換文件管理器）
 * switch-cheat-updater（在線更新金手指）
+* nx ntpc(sets the Nintendo Switch's clock appropriately)
 * reboot to payload
 
 插件 ：
@@ -80,6 +81,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * nx-theme-installer（在switch上安裝螢幕桌布）
 * N-Xplorer（另一個switch文件管理器）
 * switch-cheat-updater（在線更新金手指）
+* nx ntpc(sets the Nintendo Switch's clock appropriately)
 * sxos boot.dat
 
 插件 ：
@@ -133,6 +135,7 @@ Poor English version readme
 * nx-theme-installer (install themes on switch)
 * N-Xplorer (another switch file manager)
 * switch cheat updater (update cheat online)
+* nx ntpc(sets the Nintendo Switch's clock appropriately)
 * reboot to payload
 
 plugin : 
@@ -174,6 +177,7 @@ plugin :
 * nx-theme-installer (install themes on switch)
 * N-Xplorer (another switch file manager)
 * switch cheat updater (update cheat online)
+* nx ntpc(sets the Nintendo Switch's clock appropriately)
 * sxos boot.dat
 
 plugin : 
@@ -218,8 +222,11 @@ Credits / Sources:
 * [nxthemeinstaller](https://github.com/exelix11/SwitchThemeInjector)
 * [N-Xplorer](https://github.com/CompSciOrBust/N-Xplorer)
 * [switch-cheat-updater](https://github.com/HamletDuFromage/switch-cheats-updater)
-* [sxos items(such as sxos boot.dat)](sx.xecuter.com)
+* [nx ntpc](
+* [sxos items(such as sxos boot.dat, sxos.bin)](sx.xecuter.com)
 * [missioncontrol](https://github.com/ndeadly/MissionControl)
 * [syscon](https://github.com/cathery/sys-con)
 * [tesla menu](https://github.com/WerWolv/Tesla-Menu)
 * [sysclk](https://github.com/retronx-team/sys-clk)
+* [incognito rcm](https://github.com/Scandal-UK/Incognito_RCM)
+* [Lockpick rcm](https://github.com/shchmue/Lockpick_RCM)
