@@ -228,6 +228,7 @@ Credits / Sources:
 * [N-Xplorer](https://github.com/CompSciOrBust/N-Xplorer)
 * [switch-cheat-updater](https://github.com/HamletDuFromage/switch-cheats-updater)
 * [nx ntpc](https://github.com/thedax/NX-ntpc)
+* [dbi](https://github.com/rashevskyv/dbi)
 * [sxos items(such as sxos boot.dat, sxos.bin)](sx.xecuter.com)
 * [missioncontrol](https://github.com/ndeadly/MissionControl)
 * [syscon](https://github.com/cathery/sys-con)
