@@ -18,6 +18,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
 * hbg shop黑商店（帶有jits.cc，redump shop，quotas shop，eeveesaveproject）（語言已更改為中文）
 * awoo installer（遊戲安裝軟件，支援格式xci,xcz,nsp,nsz）
+* goldlef
 * ftpd (電腦遠端控制sd卡文件)(需要[filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe))
 * idn_mitm（lan play）
 * sysdvr（輸出遊戲畫面到電腦）
@@ -62,6 +63,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
 * hbg shop黑商店(已加入jits.cc,redump shop,quotas shop,eeveesaveproject)（語言已更改為中文）
 * awoo installer（遊戲安裝器，支援各種格式遊戲檔案，nsp nsz xci xcz）
+* goldlef
 * ftpd (遠端控制switch SD文件)（需要[filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe)）
 * idn_mitm（lan play局域網播放）
 * sysdvr（把遊戲畫面投影到電腦）
@@ -113,6 +115,7 @@ Poor English version readme
 * hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
 * hbg shop (with jits.cc,redump shop,quotas shop,eeveesaveproject)(language has changed to chinese)
 * awoo installer (multi games format installer)
+* goldlef
 * ftpd (required [filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe))
 * idn_mitm (lan play)
 * sysdvr (stream switch games to pc)
@@ -158,6 +161,7 @@ plugin :
 * hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
 * hbg shop (language has changed to chinese)
 * awoo installer (multi games format installer)
+* goldlef
 * ftpd (required [filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe))
 * idn_mitm (lan play)
 * sysdvr (stream switch games to pc)
@@ -204,6 +208,7 @@ Credits / Sources:
 * [Deeepsea toolbox](https://github.com/Team-Neptune/DeepSea-Toolbox)
 * [hbg shop(without jits.cc,redump shop,quotas shop,eeveesaveproject)](https://thehbg.shop/main.html)
 * [awoo installer](https://github.com/Huntereb/Awoo-Installer)
+* [goldleaf](https://github.com/XorTroll/Goldleaf)
 * [ftpd](https://github.com/mtheall/ftpd)
 * [idn_mitm](https://github.com/spacemeowx2/ldn_mitm)
 * [sysdvr](https://github.com/exelix11/SysDVR/)
