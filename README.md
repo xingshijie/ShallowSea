@@ -4,7 +4,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 
 中文版本說明:
 # 警告！！！ :
-* 如果你是第一次破解switch，強烈建議你弄虛擬系統，以防被任天堂禁止網絡服務(ban機)
+* 如果你是第一次破解switch，強烈建議你弄虛擬系統&應用隱身模式，以防被任天堂禁止網絡服務(ban機)
 * sxos需自購激活碼
 
 # 更新整合包指南(給初學者):
@@ -101,7 +101,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 
 Poor English version readme
 # warning!!! : 
-* If you are first time to hack switch, strongly recommend you to make emuMMC/emunand.
+* If you are first time to hack switch, strongly recommend you to make emuMMC/emunand & applied Incognito to avoid ban from Nintendo
 * sxos need license.dat (buy sxos license yourself)
 
 # Update aio-package guide(for beginners):
