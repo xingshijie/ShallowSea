@@ -56,6 +56,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * 大氣層sigpatch
 * exosphere.ini(應用了隱身模式)
 * hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
+* Nightfall (直接連網下載並自動更新任天堂原廠固件，好像系統設置中的系統更新)
 * daybreak(離線更新固件)(不適用sxos)
 * reboot to payload
 * hb-appstore(自製軟件下載器)
@@ -63,6 +64,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 # sxos完整版本整合包包括:
 * hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
 * hbg shop黑商店(已加入jits.cc,redump shop,quotas shop,eeveesaveproject)（語言已更改為中文）
+* Nightfall (直接連網下載並自動更新任天堂原廠固件，好像系統設置中的系統更新)
 * awoo installer（遊戲安裝器，支援各種格式遊戲檔案，nsp nsz xci xcz）
 * goldlef
 * ftpd (遠端控制switch SD文件)（需要[filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe)）
@@ -97,6 +99,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 # sxos精簡整合包包括:
 * sxos boot.dat
 * hb-appstore
+* Nightfall (直接連網下載並自動更新任天堂原廠固件，好像系統設置中的系統更新)
 * hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
 
 
