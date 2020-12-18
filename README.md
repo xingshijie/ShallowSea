@@ -114,6 +114,7 @@ Poor English version readme
 * exosphere.ini (Incognito applied)
 * hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
 * hbg shop (with jits.cc,redump shop,quotas shop,eeveesaveproject)(language has changed to chinese)
+* Nightfall (update the latest of switch offical firmware directly as like as oringal Nintendo update system. One click and go)
 * awoo installer (multi games format installer)
 * goldlef
 * ftpd (required [filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe))
@@ -152,14 +153,15 @@ plugin :
 * sigpatch for atmosphere
 * exosphere.ini(Incognito applied)
 * hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
+* Nightfall (update the latest of switch offical firmware directly as like as oringal Nintendo update system. One click and go)
 * daybreak
 * reboot to payload
 * hb-appstore
 
 ## sxos full version includes:
-
 * hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
 * hbg shop (language has changed to chinese)
+* Nightfall (update the latest of switch offical firmware directly as like as oringal Nintendo update system. One click and go)
 * awoo installer (multi games format installer)
 * goldlef
 * ftpd (required [filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe))
@@ -195,6 +197,7 @@ plugin :
 * sxos boot.dat
 * hb-appstore
 * hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
+* Nightfall (update the latest of switch offical firmware directly as like as oringal Nintendo update system. One click and go)
 
 notes: 
 * idn_mitm not work for 11.0.1/0.16.1
@@ -207,6 +210,7 @@ Credits / Sources:
 * [hekate](https://github.com/CTCaer/hekate)
 * [Deeepsea toolbox](https://github.com/Team-Neptune/DeepSea-Toolbox)
 * [hbg shop(without jits.cc,redump shop,quotas shop,eeveesaveproject)](https://thehbg.shop/main.html)
+* [Nightfall](https://github.com/D3fau4/NightFall)
 * [awoo installer](https://github.com/Huntereb/Awoo-Installer)
 * [goldleaf](https://github.com/XorTroll/Goldleaf)
 * [ftpd](https://github.com/mtheall/ftpd)
