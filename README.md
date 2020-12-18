@@ -17,6 +17,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * exosphere.ini（應用了隱身模式）
 * hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
 * hbg shop黑商店（帶有jits.cc，redump shop，quotas shop，eeveesaveproject）（語言已更改為中文）
+* Nightfall (像原始的Nintendo更新系統一樣，直接更新Switch官方固件的最新版本。)
 * awoo installer（遊戲安裝軟件，支援格式xci,xcz,nsp,nsz）
 * goldlef
 * ftpd (電腦遠端控制sd卡文件)(需要[filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe))
