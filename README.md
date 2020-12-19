@@ -200,7 +200,6 @@ plugin :
 * hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
 
 notes: 
-* idn_mitm not work for 11.0.1/0.16.1
 * edizon,missioncontrol, Nightfall not work for sxos
 
 Credits / Sources:
