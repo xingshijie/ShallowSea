@@ -17,7 +17,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * exosphere.ini（應用了隱身模式）
 * hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
 * hbg shop黑商店（帶有jits.cc，redump shop，quotas shop，eeveesaveproject）（語言已更改為中文）
-* Nightfall (直接連網下載並自動更新任天堂原廠固件，好像系統設置中的系統更新)
+* Nightfall (直接連網下載並自動更新任天堂原廠固件，好像系統設置中的系統更新)(只適用大氣層)
 * awoo installer（遊戲安裝軟件，支援格式xci,xcz,nsp,nsz）
 * goldlef
 * ftpd (電腦遠端控制sd卡文件)(需要[filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe))
@@ -56,7 +56,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * 大氣層sigpatch
 * exosphere.ini(應用了隱身模式)
 * hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
-* Nightfall (直接連網下載並自動更新任天堂原廠固件，好像系統設置中的系統更新)
+* Nightfall (直接連網下載並自動更新任天堂原廠固件，好像系統設置中的系統更新)(只適用大氣層)
 * daybreak(離線更新固件)(不適用sxos)
 * reboot to payload
 * hb-appstore(自製軟件下載器)
@@ -98,7 +98,6 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 # sxos精簡整合包包括:
 * sxos boot.dat
 * hb-appstore
-* Nightfall (直接連網下載並自動更新任天堂原廠固件，好像系統設置中的系統更新)
 * hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
 
 
@@ -117,7 +116,7 @@ Poor English version readme
 * exosphere.ini (Incognito applied)
 * hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
 * hbg shop (with jits.cc,redump shop,quotas shop,eeveesaveproject)(language has changed to chinese)
-* Nightfall (update the latest of switch offical firmware directly as like as oringal Nintendo update system. One click and go)
+* Nightfall (update the latest of switch offical firmware directly as like as oringal Nintendo update system. One click and go)(only for atmosphere)
 * awoo installer (multi games format installer)
 * goldlef
 * ftpd (required [filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe))
@@ -156,7 +155,7 @@ plugin :
 * sigpatch for atmosphere
 * exosphere.ini(Incognito applied)
 * hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
-* Nightfall (update the latest of switch offical firmware directly as like as oringal Nintendo update system. One click and go)
+* Nightfall (update the latest of switch offical firmware directly as like as oringal Nintendo update system. One click and go)(only for atmosphere)
 * daybreak
 * reboot to payload
 * hb-appstore
@@ -164,7 +163,6 @@ plugin :
 ## sxos full version includes:
 * hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
 * hbg shop (language has changed to chinese)
-* Nightfall (update the latest of switch offical firmware directly as like as oringal Nintendo update system. One click and go)
 * awoo installer (multi games format installer)
 * goldlef
 * ftpd (required [filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe))
@@ -200,11 +198,10 @@ plugin :
 * sxos boot.dat
 * hb-appstore
 * hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
-* Nightfall (update the latest of switch offical firmware directly as like as oringal Nintendo update system. One click and go)
 
 notes: 
 * idn_mitm not work for 11.0.1/0.16.1
-* edizon,missioncontrol not work for sxos
+* edizon,missioncontrol, Nightfall not work for sxos
 
 Credits / Sources:
 * [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
