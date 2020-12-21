@@ -202,6 +202,7 @@ plugin :
 
 notes: 
 * edizon,missioncontrol, Nightfall not work for sxos
+* atmosphere sysdvr x
 
 Credits / Sources:
 * [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
@@ -234,7 +235,7 @@ Credits / Sources:
 * [nx ntpc](https://github.com/thedax/NX-ntpc)
 * [nx-ovlloader](https://github.com/WerWolv/nx-ovlloader)
 * [dbi](https://github.com/rashevskyv/dbi)
-* sxos items(such as sxos boot.dat, sxos.bin) (sx.xecuter.com)
+* [sxos items(such as sxos boot.dat, sxos.bin)](https://sx.xecuter.com)
 * [missioncontrol](https://github.com/ndeadly/MissionControl)
 * [syscon](https://github.com/cathery/sys-con)
 * [tesla menu](https://github.com/WerWolv/Tesla-Menu)
