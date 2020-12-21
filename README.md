@@ -202,7 +202,7 @@ plugin :
 
 notes: 
 * edizon,missioncontrol, Nightfall not work for sxos
-* atmosphere sysdvr x
+* atmosphere sysdvr syscon x
 
 Credits / Sources:
 * [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
