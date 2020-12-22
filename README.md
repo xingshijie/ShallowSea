@@ -168,7 +168,6 @@ plugin :
 * awoo installer (multi games format installer)
 * goldlef
 * ftpd (required [filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe))
-* idn_mitm (lan play)
 * sysdvr (stream switch games to pc)
 * emuiibo (amiibo emulated)
 * aio-switch-updater (update CFWs, sigpatches, FWs and cheat codes)
