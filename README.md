@@ -205,7 +205,7 @@ notes:
 * edizon,missioncontrol, Nightfall not work for sxos
 * atmosphere sysdvr syscon x
 
-Credits / Sources:
+Sources:
 * [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
 * [Atmosphere sigpatch](https://github.com/ITotalJustice/patches)
 * [sigpatch updater](https://github.com/ITotalJustice/sigpatch-updater)
