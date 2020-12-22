@@ -18,7 +18,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * 大氣層sigpatch
 * exosphere.ini（應用了隱身模式）
 * hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
-* hbg shop黑商店（帶有jits.cc，redump shop，quotas shop，eeveesaveproject）（語言已更改為中文）
+* hbg shop黑商店（帶有jits.cc，redump shop，quotas shop，under shop，eeveesaveproject）（語言已更改為中文）
 * Nightfall (直接連網下載並自動更新任天堂原廠固件，好像系統設置中的系統更新)(只適用大氣層)
 * awoo installer（遊戲安裝軟件，支援格式xci,xcz,nsp,nsz）
 * goldlef
@@ -65,7 +65,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 
 # sxos完整版本整合包包括:
 * hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
-* hbg shop黑商店(已加入jits.cc,redump shop,quotas shop,eeveesaveproject)（語言已更改為中文）
+* hbg shop黑商店(已加入jits.cc,redump shop,quotas shop,under shop,eeveesaveproject)（語言已更改為中文）
 * awoo installer（遊戲安裝器，支援各種格式遊戲檔案，nsp nsz xci xcz）
 * goldlef
 * ftpd (遠端控制switch SD文件)（需要[filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe)）
@@ -117,7 +117,7 @@ Poor English version readme
 * sigpatch for atmosphere
 * exosphere.ini (Incognito applied)
 * hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
-* hbg shop (with jits.cc,redump shop,quotas shop,eeveesaveproject)(language has changed to chinese)
+* hbg shop (with jits.cc,redump shop,quotas shop,under shop,eeveesaveproject)(language has changed to chinese)
 * Nightfall (update the latest of switch offical firmware directly as like as oringal Nintendo update system. One click and go)(only for atmosphere)
 * awoo installer (multi games format installer)
 * goldlef
@@ -164,7 +164,7 @@ plugin :
 
 ## sxos full version includes:
 * hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
-* hbg shop (language has changed to chinese)
+* hbg shop  (with jits.cc,redump shop,quotas shop,under shop,eeveesaveproject)(language has changed to chinese)(language has changed to chinese)
 * awoo installer (multi games format installer)
 * goldlef
 * ftpd (required [filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe))
@@ -211,7 +211,7 @@ Credits / Sources:
 * [sigpatch updater](https://github.com/ITotalJustice/sigpatch-updater)
 * [hekate](https://github.com/CTCaer/hekate)
 * [Deeepsea toolbox](https://github.com/Team-Neptune/DeepSea-Toolbox)
-* [hbg shop(without jits.cc,redump shop,quotas shop,eeveesaveproject)](https://thehbg.shop/main.html)
+* [hbg shop(without jits.cc,redump shop,quotas shop,under shop,eeveesaveproject)](https://thehbg.shop/main.html)
 * [Nightfall](https://github.com/D3fau4/NightFall)
 * [awoo installer](https://github.com/Huntereb/Awoo-Installer)
 * [goldleaf](https://github.com/XorTroll/Goldleaf)
