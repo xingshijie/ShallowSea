@@ -45,6 +45,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * N-Xplorer（另一個交換文件管理器）
 * switch-cheat-updater（在線更新金手指）
 * nx ntpc(sets the Nintendo Switch's clock appropriately)
+* lock log(停止向Nintendo發送日誌)
 * reboot to payload
 
 插件 ：
@@ -88,6 +89,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * N-Xplorer（另一個switch文件管理器）
 * switch-cheat-updater（在線更新金手指）
 * nx ntpc(sets the Nintendo Switch's clock appropriately)
+* lock log(停止向Nintendo發送日誌)
 * sxos boot.dat
 
 插件 ：
@@ -144,6 +146,7 @@ Poor English version readme
 * N-Xplorer (another switch file manager)
 * switch cheat updater (update cheat online)
 * nx ntpc(sets the Nintendo Switch's clock appropriately)
+* lock log(stops sending telemetry to Nintendo)
 * reboot to payload
 
 plugin : 
@@ -167,7 +170,7 @@ plugin :
 * hbg shop  (with jits.cc,redump shop,quotas shop,under shop,eeveesaveproject)(language has changed to chinese)(language has changed to chinese)
 * awoo installer (multi games format installer)
 * goldlef
-* ftpd (required [filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe))
+* ftp4sxos (required [filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe))
 * sysdvr (stream switch games to pc)
 * emuiibo (amiibo emulated)
 * aio-switch-updater (update CFWs, sigpatches, FWs and cheat codes)
@@ -186,6 +189,7 @@ plugin :
 * N-Xplorer (another switch file manager)
 * switch cheat updater (update cheat online)
 * nx ntpc(sets the Nintendo Switch's clock appropriately)
+* lock log(stops sending telemetry to Nintendo)
 * sxos boot.dat
 
 plugin : 
@@ -233,6 +237,8 @@ Sources:
 * [N-Xplorer](https://github.com/CompSciOrBust/N-Xplorer)
 * [switch-cheat-updater](https://github.com/HamletDuFromage/switch-cheats-updater)
 * [nx ntpc](https://github.com/thedax/NX-ntpc)
+* [ftp4sxos](https://github.com/Falki14/ftpd4sxos)
+* [lock-logs](https://github.com/StarDustCFW/Lock-Logs)
 * [nx-ovlloader](https://github.com/WerWolv/nx-ovlloader)
 * [dbi](https://github.com/rashevskyv/dbi)
 * [sxos items(such as sxos boot.dat, sxos.bin)](https://sx.xecuter.com)
