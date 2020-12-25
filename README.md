@@ -111,7 +111,7 @@ Poor English version readme
 # Update aio-package guide(for beginners):
 * Download aio package from [here](https://github.com/carcaschoi/ShallowSea/releases)
 * If you are Atmosphere user: Delete all the folders but not (Nintendo,emuiibo,emuMMC,JKSV) folders. Then drape and drop shallowsea/atmosphere X.XX.X/full（or minimal)/ into your sd card.
-* If you are sxos user: Delete all the folders but not (Nintendo,emuiibo,sxos/emunand,Emutendo,JKSV) folders. Then drape and drop shallowsea/sxos X.X.X/full（or minimal)/ into your sd card.
+* If you are sxos user: Delete all the folders but not (Nintendo,license.dat,emuiibo,sxos/emunand,Emutendo,JKSV) folders. Then drape and drop shallowsea/sxos X.X.X/full（or minimal)/ into your sd card.
 
 ## atmosphere full version includes:
 * sigpatch for atmosphere
