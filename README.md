@@ -17,7 +17,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * 如果您是sxos用戶：除了（Nintendo，emuiibo，sxos/emunand，BCAT，license.dat，Emutendo，JKSV）文件夾，刪除其餘文件夾。然後將 shallowsea/sxos X.X.X/full（or minimal)/ 裏面所有東西解壓縮放到SD卡中。
 * If you are sxos user: Delete all the folders but not (Nintendo,license.dat,emuiibo,sxos/emunand,BCAT,Emutendo,JKSV) folders. Then drape and drop shallowsea/sxos X.X.X/full（or minimal)/ into your sd card.
 # 大氣層完整版本整合包包括:
-* 大氣層sigpatch
+* 大氣層sigpatch(sigpatch for atmosphere)
 * exosphere.ini（應用了隱身模式）
 * hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
 * hbg shop黑商店（帶有jits.cc，redump shop，quotas shop，under shop，eeveesaveproject）（語言已更改為中文）
