@@ -5,7 +5,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * You can download switch firmware from [here](https://darthsternie.net/switch-firmwares/)
 
 中文版本說明:
-# 警告！！！ :
+# 警告 warning！！！ :
 * 如果你是第一次破解switch，強烈建議你弄虛擬系統&應用隱身模式，以防被任天堂禁止網絡服務(ban機)
 * sxos需自購激活碼
 
@@ -34,19 +34,19 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * linkalho（鏈接虛假的任天堂帳戶，不刪除用户遊戲保存）(link fake Nintendo account without delete user games saves)
 * DBI
 * Deepsea toolbox（可以重新啟動到hekate）(u can choose to reboot to hekate)
-* NXDumptool（轉儲遊戲卡）
-* daybreak（離線更新固件，與sxos不兼容）
-* Choidujournx (大白兔)（離線更新固件。與大氣和sxos兼容）
-* nxmtp（使用USB電纜傳輸文件）
-* Nx-shell（switch文件管理器）
-* JKSV（功能類似於checkpoint，導出和導入保存）
+* NXDumptool（轉儲遊戲卡）(Dump gamecard)
+* daybreak（離線更新固件，與sxos不兼容）(offline update firmware. Only compatible with atmosphere)
+* Choidujournx大白兔（離線更新固件。與大氣和sxos兼容）(offline update firmware. compatible with both atmosphere and sxos)
+* nxmtp（使用USB電纜傳輸文件）(transfer file with usb cable)
+* Nx-shell（switch文件管理器）(switch sd file manager)
+* JKSV（功能類似於checkpoint，導出和導入保存）(function as like as checkpoint，eject or inject save)
 * sigpatch-updater（在線更新大氣層sigpatch）
-* pplay（Nintendo Switch的視頻播放器）
+* pplay（Nintendo Switch的視頻播放器）(a video player for the Nintendo Switch)
 * Playernx
 * nx-theme-installer（在switch上安裝螢幕桌布）
-* N-Xplorer（另一個交換文件管理器）
-* switch-cheat-updater（在線更新金手指）
-* nx ntpc (sets the Nintendo Switch's clock appropriately)
+* N-Xplorer（另一個switch文件管理器）(another swqitch file manager)
+* switch-cheat-updater（在線更新金手指）(update cheat online)
+* nx ntpc （適當設置Nintendo Switch的時鐘）(sets the Nintendo Switch's clock appropriately)
 * lock log (停止向Nintendo發送日誌)(stops sending telemetry to Nintendo)
 * reboot to payload
 
@@ -87,15 +87,15 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * JKSV（功能類似於checkpoint，導出導入保存）
 * pplay（Nintendo Switch的視頻播放器）
 * Playernx
-* nx-theme-installer（在switch上安裝螢幕桌布）
-* N-Xplorer（另一個switch文件管理器）
+* nx-theme-installer（在switch上安裝螢幕桌布）(install themes on switch)
+* N-Xplorer（另一個switch文件管理器）(another switch file manager)
 * switch-cheat-updater（在線更新金手指）
 * nx ntpc(sets the Nintendo Switch's clock appropriately)
 * lock log(停止向Nintendo發送日誌)
 * sxos boot.dat
 
 插件 ：
-* sx autoloader 1.4（在桌面直接加載xci相簿遊戲)
+* sx autoloader 1.4（在桌面直接加載xci相簿遊戲)(auto laod switch xci games on home screen)
 * syscon (無需額外轉接器，即可用usb線連接第三方手柄，etc. ps3 ps4 xbox one xbox360等手柄)
 * tesla menu (快捷菜單)（由nx-ovlloader加載的初始覆蓋菜單）
 * nx-ovlloader
