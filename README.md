@@ -46,8 +46,8 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * nx-theme-installer（在switch上安裝螢幕桌布）
 * N-Xplorer（另一個交換文件管理器）
 * switch-cheat-updater（在線更新金手指）
-* nx ntpc(sets the Nintendo Switch's clock appropriately)
-* lock log(停止向Nintendo發送日誌)
+* nx ntpc (sets the Nintendo Switch's clock appropriately)
+* lock log (停止向Nintendo發送日誌)(stops sending telemetry to Nintendo)
 * reboot to payload
 
 插件 ：
