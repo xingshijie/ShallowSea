@@ -17,23 +17,23 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * 如果您是sxos用戶：除了（Nintendo，emuiibo，sxos/emunand，BCAT，license.dat，Emutendo，JKSV）文件夾，刪除其餘文件夾。然後將 shallowsea/sxos X.X.X/full（or minimal)/ 裏面所有東西解壓縮放到SD卡中。
 * If you are sxos user: Delete all the folders but not (Nintendo,license.dat,emuiibo,sxos/emunand,BCAT,Emutendo,JKSV) folders. Then drape and drop shallowsea/sxos X.X.X/full（or minimal)/ into your sd card.
 # 大氣層完整版本整合包包括:
-* 大氣層sigpatch(sigpatch for atmosphere)
-* exosphere.ini（應用了隱身模式）
-* hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
-* hbg shop黑商店（帶有jits.cc，redump shop，quotas shop，under shop，eeveesaveproject）（語言已更改為中文）
-* Nightfall (直接連網下載並自動更新任天堂原廠固件，好像系統設置中的系統更新)(只適用大氣層)
-* awoo installer（遊戲安裝軟件，支援格式xci,xcz,nsp,nsz）
+* 大氣層sigpatch (sigpatch for atmosphere)
+* exosphere.ini（應用了隱身模式） (Incognito applied)
+* hekate (with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
+* hbg shop黑商店（jits.cc，redump shop，quotas shop，under shop，eeveesaveproject）（語言已更改為中文）(language has changed to chinese)
+* Nightfall (直接連網下載並自動更新任天堂原廠固件，好像系統設置中的系統更新)(只適用大氣層)(update the latest of switch offical firmware directly as like as oringal Nintendo update system. One click and go)(only for atmosphere)
+* awoo installer（遊戲安裝軟件，支援格式xci,xcz,nsp,nsz）(multi games format installer)
 * goldlef
-* ftpd (電腦遠端控制sd卡文件)(需要[filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe))
+* ftpd (電腦遠端控制sd卡文件)(需要[filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe))(remote control sd card file from pc via wifi)(required [filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe))
 * idn_mitm（lan play）
-* sysdvr（輸出遊戲畫面到電腦）
-* emuiibo（模擬amiibo）
-* aio-switch-updater（更新CFW，sigpatches，FW和金手指）
-* hb-appstore（自製軟件下載器）
-* edizon 4.0（金手指軟件）
-* linkalho（鏈接虛假的任天堂帳戶，不刪除用户遊戲保存）
+* sysdvr（輸出遊戲畫面到電腦）(stream switch games screen to pc)
+* emuiibo（模擬amiibo）(amiibo emulation)
+* aio-switch-updater（更新CFW，sigpatches，FW和金手指）(update CFWs, sigpatches, FWs and cheat codes)
+* hb-appstore（自製軟件下載器）(homebrew app downloader)
+* edizon 4.0 snapshot（金手指軟件）
+* linkalho（鏈接虛假的任天堂帳戶，不刪除用户遊戲保存）(link fake Nintendo account without delete user games saves)
 * DBI
-* Deepsea toolbox（可以重新啟動到hekate）
+* Deepsea toolbox（可以重新啟動到hekate）(u can choose to reboot to hekate)
 * NXDumptool（轉儲遊戲卡）
 * daybreak（離線更新固件，與sxos不兼容）
 * Choidujournx (大白兔)（離線更新固件。與大氣和sxos兼容）
@@ -68,14 +68,14 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 
 # sxos完整版本整合包包括:
 * hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
-* hbg shop黑商店(已加入jits.cc,redump shop,quotas shop,under shop,eeveesaveproject)（語言已更改為中文）
+* hbg shop黑商店(已加入jits.cc,redump shop,quotas shop,under shop,eeveesaveproject)（語言已更改為中文）(language has changed to chinese)
 * awoo installer（遊戲安裝器，支援各種格式遊戲檔案，nsp nsz xci xcz）
 * goldlef
 * ftpd (遠端控制switch SD文件)（需要[filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe)）
 * idn_mitm（lan play局域網播放）
 * sysdvr（把遊戲畫面投影到電腦）
 * emuiibo（模擬amiibo）
-* aio-switch-updater（在線更新CFW，sigpatches，FW和金手指）
+* aio-switch-updater（在線更新CFW，sigpatches，FW和金手指）(update CFWs, sigpatches, FWs and cheat codes)
 * hb-appstore（自製軟件下載器）
 * linkalho（鏈接虛假的任天堂帳戶，不刪除用户保存）
 * DBI
