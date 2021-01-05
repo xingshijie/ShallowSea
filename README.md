@@ -1,4 +1,4 @@
-# ShallowSea
+# ShallowSea (readme待優化，有空再弄)
 The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee primary version) and sxos. 有中文版本指南 & English version readme(lower side)
 # The ultimate solution for jailbreaking your Nintendo Switch has arrived.(copy from sxos)🤪
 * You can download rcmloader package from [here](https://github.com/carcaschoi/rcmloader-package)
