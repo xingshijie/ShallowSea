@@ -19,11 +19,11 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 # 大氣層完整版本整合包包括:
 | Homebrew | Function |
 | ------ | ------ |
-| [大氣層sigpatch(sigpatch for atmosphere)](https://github.com/ITotalJustice/patches) | allow to run piracy games |
+| [大氣層sigpatch(sigpatch for atmosphere)](https://github.com/ITotalJustice/patches) | allow switch to run piracy games |
 | exosphere.ini（應用了隱身模式）(Incognito applied) | avoid to get ban from Nintendo |
-* hekate (with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
-* hbg shop黑商店（jits.cc，redump shop，quotas shop，under shop，eeveesaveproject）（語言已更改為中文）(language has changed to chinese)
-* Nightfall (直接連網下載並自動更新任天堂原廠固件，好像系統設置中的系統更新)(只適用大氣層)(update the latest of switch offical firmware directly as like as oringal Nintendo update system. One click and go)(only for atmosphere)
+| hekate (with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin) | 
+| hbg shop黑商店（jits.cc，redump shop，quotas shop，under shop，eeveesaveproject）（語言已更改為中文）(language has changed to chinese) | download piracy games directly to switch |
+| Nightfall | 直接連網下載並自動更新任天堂原廠固件，好像系統設置中的系統更新(update the latest of switch offical firmware directly as like as oringal Nintendo update system. One click and go) |
 * awoo installer（遊戲安裝軟件，支援格式xci,xcz,nsp,nsz）(multi games format installer)
 * goldlef
 * ftpd (電腦遠端控制sd卡文件)(需要[filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe))(remote control sd card file from pc via wifi)(required [filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe))
