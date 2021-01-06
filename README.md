@@ -23,7 +23,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | exosphere.ini（應用了隱身模式）(Incognito applied) | avoid to get ban from Nintendo |
 | hekate (with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin) | 
 | hbg shop黑商店（jits.cc，redump shop，quotas shop，under shop，eeveesaveproject）（語言已更改為中文）(language has changed to chinese) | download piracy games directly to switch |
-| [Nightfall(run it on non-applet mode)](https://github.com/D3fau4/NightFall) | 直接連網下載並自動更新任天堂原廠固件，好像系統設置中的系統更新(update the latest of switch offical firmware directly as like as oringal Nintendo update system. One click and go) |
+| [Nightfall(run it on non-applet mode)(only support atmosphere)](https://github.com/D3fau4/NightFall) | 直接連網下載並自動更新任天堂原廠固件，好像系統設置中的系統更新(update the latest of switch offical firmware directly as like as oringal Nintendo update system. One click and go) |
 | [awoo installer](https://github.com/Huntereb/Awoo-Installer) | 遊戲安裝軟件，支援格式xci,xcz,nsp,nsz (NSP, NSZ, XCI, and XCZ Installer for Nintendo Switch) |
 | [goldlef](https://github.com/XorTroll/Goldleaf) | check function from [here](https://github.com/XorTroll/Goldleaf#features) |
 | [ftpd pro](https://github.com/mtheall/ftpd) | Allows file transfer over local network via ftp | 
