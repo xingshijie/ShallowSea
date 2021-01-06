@@ -4,7 +4,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * You can download rcmloader package from [here](https://github.com/carcaschoi/rcmloader-package)
 * You can download switch firmware from [here](https://darthsternie.net/switch-firmwares/)
 
-中文版本說明:
+說明 readme:
 # 警告 warning！！！ :
 * 如果你是第一次破解switch，強烈建議你弄虛擬系統&應用隱身模式，以防被任天堂禁止網絡服務(ban機)
 * sxos需自購激活碼
@@ -19,9 +19,9 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 # 大氣層完整版本整合包包括:
 | Homebrew | Function |
 | ------ | ------ |
-| [大氣層sigpatch(sigpatch for atmosphere)](https://github.com/ITotalJustice/patches) | allow switch to run piracy games |
+| [大氣層sigpatch(sigpatch for atmosphere)](https://github.com/ITotalJustice/patches) | allow switch to run nsp forwarder & piracy games |
 | exosphere.ini（應用了隱身模式）(Incognito applied) | avoid to get ban from Nintendo |
-| hekate (with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin) | 
+| hekate (with [incognito rcm](https://github.com/jimzrt/Incognito_RCM), [lockpick rcm](https://github.com/shchmue/Lockpick_RCM), [tegraexplorer](https://github.com/suchmememanyskill/TegraExplorer), [fusee-primary.bin](https://github.com/Atmosphere-NX/Atmosphere), [sxos.bin](https://sx.xecuter.com) | Custom Graphical Nintendo Switch bootloader, firmware patcher, tools, and many more.
 | hbg shop黑商店（jits.cc，redump shop，quotas shop，under shop，eeveesaveproject）（語言已更改為中文）(language has changed to chinese) | download piracy games directly to switch |
 | [Nightfall(run it on non-applet mode)(only support atmosphere)](https://github.com/D3fau4/NightFall) | 直接連網下載並自動更新任天堂原廠固件，好像系統設置中的系統更新(update the latest of switch offical firmware directly as like as oringal Nintendo update system. One click and go) |
 | [awoo installer](https://github.com/Huntereb/Awoo-Installer) | 遊戲安裝軟件，支援格式xci,xcz,nsp,nsz (NSP, NSZ, XCI, and XCZ Installer for Nintendo Switch) |
@@ -111,7 +111,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 
 Poor English version readme
 # warning!!! : 
-* If you are first time to hack switch, strongly recommend you to make emuMMC/emunand & applied Incognito to avoid ban from Nintendo
+* If you are first time to hack switch, highly recommend you to make emuMMC/emunand & applied Incognito to avoid ban from Nintendo
 * sxos need license.dat (buy sxos license yourself)
 
 # Update aio-package guide(for beginners):
