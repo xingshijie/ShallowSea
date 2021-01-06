@@ -30,7 +30,8 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [idn_mitm](https://github.com/spacemeowx2/ldn_mitm) | lan play |
 | [sysdvr](https://github.com/exelix11/SysDVR) | allows capturing the running game output to a pc via USB or network connection |
 | [emuiibo](https://github.com/XorTroll/emuiibo) | 模擬amiibo (amiibo emulation) |
-| [aio-switch-updater](https://github.com/HamletDuFromage/AIO-switch-updater) | *更新CFW，sigpatches，FW和金手指 *update CFWs, sigpatches, FWs and cheat codes
+| [aio-switch-updater](https://github.com/HamletDuFromage/AIO-switch-updater) | *更新CFW，sigpatches，FW和金手指 
+*update CFWs, sigpatches, FWs and cheat codes |
 * hb-appstore（自製軟件下載器）(homebrew app downloader)
 * edizon 4.0 snapshot（金手指軟件）
 * linkalho（鏈接虛假的任天堂帳戶，不刪除用户遊戲保存）(link fake Nintendo account without delete user games saves)
