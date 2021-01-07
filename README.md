@@ -9,7 +9,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * 如果你是第一次破解switch，強烈建議你弄虛擬系統&應用隱身模式，以防被任天堂禁止網絡服務(ban機)
 * sxos需自購激活碼
 
-# 更新整合包指南 Update aio-package guide:
+# 更新整合包指南 Update aio-package guide !!!:
 * 從[這裡](https://github.com/carcaschoi/ShallowSea/releases)下載整合包
 * Download aio package from [here](https://github.com/carcaschoi/ShallowSea/releases)
 * 如果您是大氣層用戶：除了（Nintendo，emuiibo，emuMMC，BCAT，JKSV）文件夾，刪除其餘文件夾。然後將 shallowsea/atmosphere X.XX.X/full（or minimal)/ 裏面所有東西解壓縮放到SD卡中。
@@ -33,8 +33,8 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [aio-switch-updater](https://github.com/HamletDuFromage/AIO-switch-updater) | 更新CFW，sigpatches，FW和金手指 (update CFWs, sigpatches, FWs and cheat codes) |
 | [hb-appstore](https://github.com/fortheusers/hb-appstore) | 自製軟件下載器 (homebrew app downloader) |
 | [edizon snapshot](https://github.com/WerWolv/EdiZon) | 金手指軟件 (games cheating app) |
-| linkalho | 鏈接虛假的任天堂帳戶，不刪除用户遊戲保存(link fake Nintendo account without delete user games saves)
-| DBI | |
+| linkalho | 鏈接虛假的任天堂帳戶，不刪除用户遊戲保存(link fake Nintendo account without delete user games saves) |
+| DBI | install games & mtp serves |
 | Deepsea toolbox |（可以重新啟動到hekate）(u can choose to reboot to hekate)
 | NXDumptool | （轉儲遊戲卡）(Dump gamecard) |
 * daybreak（離線更新固件，與sxos不兼容）(offline update firmware. Only compatible with atmosphere)
