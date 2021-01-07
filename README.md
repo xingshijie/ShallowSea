@@ -10,6 +10,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * sxos需自購激活碼
 
 # 更新整合包指南 Update aio-package guide !!!:
+# 如果你是硬破機並想轉用大氣層，一定要先刪除整合包根目錄的exosphere.ini並使用90dns(If your switch is modded by sx core/lite and want to use atmosphere, u MUST DELETE 「exosphere.ini」 which located at the root of the sd card and use 90dns)
 * 從[這裡](https://github.com/carcaschoi/ShallowSea/releases)下載整合包
 * Download aio package from [here](https://github.com/carcaschoi/ShallowSea/releases)
 * 如果您是大氣層用戶：除了（Nintendo，emuiibo，emuMMC，BCAT，JKSV）文件夾，刪除其餘文件夾。然後將 shallowsea/atmosphere X.XX.X/full（or minimal)/ 裏面所有東西解壓縮放到SD卡中。
