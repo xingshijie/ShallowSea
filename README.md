@@ -33,10 +33,10 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [aio-switch-updater](https://github.com/HamletDuFromage/AIO-switch-updater) | 更新CFW，sigpatches，FW和金手指 (update CFWs, sigpatches, FWs and cheat codes) |
 | [hb-appstore](https://github.com/fortheusers/hb-appstore) | 自製軟件下載器 (homebrew app downloader) |
 | [edizon snapshot](https://github.com/WerWolv/EdiZon) | 金手指軟件 (games cheating app) |
-* linkalho（鏈接虛假的任天堂帳戶，不刪除用户遊戲保存）(link fake Nintendo account without delete user games saves)
-* DBI
-* Deepsea toolbox（可以重新啟動到hekate）(u can choose to reboot to hekate)
-* NXDumptool（轉儲遊戲卡）(Dump gamecard)
+| linkalho | 鏈接虛假的任天堂帳戶，不刪除用户遊戲保存(link fake Nintendo account without delete user games saves)
+| DBI | |
+| Deepsea toolbox |（可以重新啟動到hekate）(u can choose to reboot to hekate)
+| NXDumptool | （轉儲遊戲卡）(Dump gamecard) |
 * daybreak（離線更新固件，與sxos不兼容）(offline update firmware. Only compatible with atmosphere)
 * Choidujournx大白兔（離線更新固件。與大氣和sxos兼容）(offline update firmware. compatible with both atmosphere and sxos)
 * nxmtp（使用USB電纜傳輸文件）(transfer file with usb cable)
