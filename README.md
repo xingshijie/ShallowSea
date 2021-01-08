@@ -18,7 +18,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * 如果您是sxos用戶：除了（Nintendo，emuiibo，sxos/emunand，BCAT，license.dat，Emutendo，JKSV）文件夾，刪除其餘文件夾。然後將 shallowsea/sxos X.X.X/full（or minimal)/ 裏面所有東西解壓縮放到SD卡中。
 * If you are sxos user: Delete all the folders but not (Nintendo,license.dat,emuiibo,sxos/emunand,BCAT,Emutendo,JKSV) folders. Then drape and drop shallowsea/sxos X.X.X/full（or minimal)/ into your sd card.
 # 大氣層完整版本整合包包括:
-| Homebrew | Function |
+| 自製軟件 Homebrew | 用途 Function |
 | ------ | ------ |
 | [大氣層sigpatch(sigpatch for atmosphere)](https://github.com/ITotalJustice/patches) | allow switch to run nsp forwarder & piracy games |
 | exosphere.ini（應用了隱身模式）(Incognito applied) | avoid to get ban from Nintendo |
@@ -38,23 +38,21 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | DBI | install games & mtp serves |
 | Deepsea toolbox |（可以重新啟動到hekate）(u can choose to reboot to hekate)
 | NXDumptool | （轉儲遊戲卡）(Dump gamecard) |
-* daybreak（離線更新固件，與sxos不兼容）(offline update firmware. Only compatible with atmosphere)
-* Choidujournx大白兔（離線更新固件。與大氣和sxos兼容）(offline update firmware. compatible with both atmosphere and sxos)
-* nxmtp（使用USB電纜傳輸文件）(transfer file with usb cable)
-* Nx-shell（switch文件管理器）(switch sd file manager)
-* JKSV（功能類似於checkpoint，導出和導入保存）(function as like as checkpoint，eject or inject save)
-* sigpatch-updater（在線更新大氣層sigpatch）
-* pplay（Nintendo Switch的視頻播放器）(a video player for the Nintendo Switch)
-* Playernx
-* nx-theme-installer（在switch上安裝螢幕桌布）
-* N-Xplorer（另一個switch文件管理器）(another swqitch file manager)
-* switch-cheat-updater（在線更新金手指）(update cheat online)
-* nx ntpc （適當設置Nintendo Switch的時鐘）(sets the Nintendo Switch's clock appropriately)
-* lock log (停止向Nintendo發送日誌)(stops sending telemetry to Nintendo)
-* reboot to payload
-
-插件 ：
-* missioncontrol (無需額外轉接器，即可直接用第三方手柄 藍牙連接switch，etc. ps4手柄)（不支持sxos）
+| Daybreak | 離線更新系統固件，與sxos不兼容(offline update firmware. Only compatible with atmosphere) |
+| Choidujournx(大白兔) | 離線更新固件。與大氣和sxos兼容(offline update firmware. compatible with both atmosphere and sxos) |
+| nxmtp | 使用USB電纜傳輸文件(transfer file with usb cable)|
+| Nx-shell | switch文件管理器(switch sd file manager) |
+| JKSV | 功能類似於checkpoint，導出和導入保存(function as like as checkpoint，eject or inject save)|
+| sigpatch-updater | 在線更新大氣層sigpatch(update atmosphere sigpatch online) |
+| pplay | Nintendo Switch的視頻播放器(a video player for the Nintendo Switch) |
+| Playernx | |
+| nx-theme-installer | 在switch上安裝螢幕桌布(install themes on switch)
+| N-Xplorer | 另一個switch文件管理器(another switch sd card file manager) |
+| switch-cheat-updater | 在線更新遊戲金手指(update games cheat code online) |
+| nx ntpc | 在線設置Nintendo Switch的時鐘(sets the Nintendo Switch's clock appropriately) |
+| lock log | 停止向Nintendo發送日誌(stops sending telemetry to Nintendo) |
+| reboot to payload | |
+| missioncontrol | 無需額外轉接器，即可直接用第三方手柄藍牙連接switch，etc. ps4手柄，不支持sxos |
 * syscon（無需額外轉接器，即可用usb線連接第三方手柄，etc. ps3 ps4 xbox one xbox360等手柄）
 * nx-ovlloader
 * tesla菜單（由nx-ovlloader加載的初始覆蓋菜單）
@@ -147,7 +145,7 @@ Poor English version readme
 * sigpatch-updater (update sigpatch online)
 * pplay (a video player for the Nintendo Switch)
 * playernx
-* nx-theme-installer (install themes on switch)
+* nx-theme-installer(install themes on switch)
 * N-Xplorer (another switch file manager)
 * switch cheat updater (update cheat online)
 * nx ntpc(sets the Nintendo Switch's clock appropriately)
