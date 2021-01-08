@@ -19,7 +19,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * If you are sxos user: Delete all the folders but not (Nintendo,license.dat,emuiibo,sxos/emunand,BCAT,Emutendo,JKSV) folders. Then drape and drop shallowsea/sxos X.X.X/full（or minimal)/ into your sd card.
 # 大氣層完整版本整合包包括:
 | 自製軟件 Homebrew | 用途 Function |
-| ----------------- | ------------- |
+| ---------------- | ------------- |
 | [大氣層sigpatch(sigpatch for atmosphere)](https://github.com/ITotalJustice/patches) | allow switch to run nsp forwarder & piracy games |
 | exosphere.ini（應用了隱身模式）(Incognito applied) | avoid to get ban from Nintendo |
 | [hekate](https://github.com/CTCaer/hekate) (with [incognito rcm](https://github.com/jimzrt/Incognito_RCM), [lockpick rcm](https://github.com/shchmue/Lockpick_RCM), [tegraexplorer](https://github.com/suchmememanyskill/TegraExplorer), [fusee-primary.bin](https://github.com/Atmosphere-NX/Atmosphere), [sxos.bin](https://sx.xecuter.com) | Custom Graphical Nintendo Switch bootloader, firmware patcher, tools, and many more.
@@ -34,15 +34,15 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [aio-switch-updater](https://github.com/HamletDuFromage/AIO-switch-updater) | 更新CFW，sigpatches，FW和金手指 (update CFWs, sigpatches, FWs and cheat codes) |
 | [hb-appstore](https://github.com/fortheusers/hb-appstore) | 自製軟件下載器 (homebrew app downloader) |
 | [edizon snapshot](https://github.com/WerWolv/EdiZon) | 金手指軟件 (games cheating app) |
-| linkalho | 鏈接虛假的任天堂帳戶，不刪除用户遊戲保存(link fake Nintendo account without delete user games saves) |
-| DBI | install games & mtp serves |
+| [linkalho](https://github.com/rdmrocha/linkalho) | 鏈接虛假的任天堂帳戶，不刪除用户遊戲保存(link fake Nintendo account without delete user games saves) |
+| [DBI](https://github.com/rashevskyv/dbi) | install games & mtp serves |
 | Deepsea toolbox |（可以重新啟動到hekate）(u can choose to reboot to hekate)
 | NXDumptool | （轉儲遊戲卡）(Dump gamecard) |
 | Daybreak | 離線更新系統固件，與sxos不兼容(offline update firmware. Only compatible with atmosphere) |
 | Choidujournx(大白兔) | 離線更新固件。與大氣和sxos兼容(offline update firmware. compatible with both atmosphere and sxos) |
 | nxmtp | 使用USB電纜傳輸文件(transfer file with usb cable)|
 | Nx-shell | switch文件管理器(switch sd file manager) |
-| JKSV | 功能類似於checkpoint，導出和導入保存(function as like as checkpoint，eject or inject save)|
+| JKSV | 功能類似於[checkpoint](https://github.com/FlagBrew/Checkpoint)，導出和導入保存(function as like as [checkpoint](https://github.com/FlagBrew/Checkpoint)，eject or inject save) |
 | sigpatch-updater | 在線更新大氣層sigpatch(update atmosphere sigpatch online) |
 | pplay | Nintendo Switch的視頻播放器(a video player for the Nintendo Switch) |
 | Playernx | |
