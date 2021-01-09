@@ -4,10 +4,6 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * You can download switch firmware(系統固件) from [here](https://darthsternie.net/switch-firmwares/)
 
 說明 readme:
-# 警告 warning！！！ :
-* 如果你是第一次破解switch，強烈建議你弄虛擬系統&應用隱身模式，以防被任天堂禁止網絡服務(ban機)
-* sxos需自購激活碼
-
 # 更新整合包指南 Update aio-package guide !!!:
 * 如果你是硬破機並想轉用大氣層，一定要先刪除整合包根目錄的「exosphere.ini」並使用[90dns](https://gbatemp.net/threads/90dns-dns-server-for-blocking-all-nintendo-servers.516234/)😎
 * If your switch is modded by sx core/lite and want to use atmosphere, u MUST DELETE 「exosphere.ini」 which located at the root of the sd card and use [90dns](https://gbatemp.net/threads/90dns-dns-server-for-blocking-all-nintendo-servers.516234/) instead)😎
