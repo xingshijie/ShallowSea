@@ -104,17 +104,6 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * hb-appstore
 * hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
 
-
-Poor English version readme
-# warning!!! : 
-* If you are first time to hack switch, highly recommend you to make emuMMC/emunand & applied Incognito to avoid ban from Nintendo
-* sxos need license.dat (buy sxos license yourself)
-
-# Update aio-package guide(for beginners):
-* Download aio package from [here](https://github.com/carcaschoi/ShallowSea/releases)
-* If you are Atmosphere user: Delete all the folders but not (Nintendo,emuiibo,emuMMC,BCAT,JKSV) folders. Then drape and drop shallowsea/atmosphere X.XX.X/full（or minimal)/ into your sd card.
-* If you are sxos user: Delete all the folders but not (Nintendo,license.dat,emuiibo,sxos/emunand,BCAT,Emutendo,JKSV) folders. Then drape and drop shallowsea/sxos X.X.X/full（or minimal)/ into your sd card.
-
 ## atmosphere full version includes:
 * sigpatch for atmosphere
 * exosphere.ini (Incognito applied)
