@@ -2,6 +2,7 @@
 The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee primary version) and sxos.
 * You can download rcmloader package(注入器整合包) from [here](https://github.com/carcaschoi/rcmloader-package)
 * You can download switch firmware(系統固件) from [here](https://darthsternie.net/switch-firmwares/)
+* 按[這裏](https://github.com/carcaschoi/switch-chinese-homebrew-app)下载switch汉化的自制軟件
 
 說明 readme:
 # 更新整合包指南 Update aio-package guide !!!:
@@ -11,8 +12,8 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | 中文指南 | English guide |
 | ------ | ------------- |
 | 從[這裡](https://github.com/carcaschoi/ShallowSea/releases)下載整合包「Shalloesea.rar」 | Download aio package「Shallowsea.rar」 from [here](https://github.com/carcaschoi/ShallowSea/releases) |
-| 如果您是大氣層用戶：除了（Nintendo，emuiibo，emuMMC，BCAT，JKSV，warmboot_mariko）文件夾，刪除其餘文件夾。然後將 shallowsea/atmosphere X.XX.X/full（or minimal)/ 裏面所有東西解壓縮放到SD卡中。 | If you are Atmosphere user: Delete all the folders but not (Nintendo,emuiibo,emuMMC,BCAT,JKSV,warmboot_mariko) folders. Then drape and drop shallowsea/atmosphere X.XX.X/full（or minimal)/ into your sd card. |
-| 如果您是sxos用戶：除了（Nintendo，emuiibo，sxos/emunand，BCAT，license.dat，Emutendo，JKSV）文件夾，刪除其餘文件夾。然後將 shallowsea/sxos X.X.X/full（or minimal)/ 裏面所有東西解壓縮放到SD卡中。 | If you are sxos user: Delete all the folders but not (Nintendo,license.dat,emuiibo,sxos/emunand,BCAT,Emutendo,JKSV) folders. Then drape and drop shallowsea/sxos X.X.X/full（or minimal)/ into your sd card. |
+| 如果您是大氣層用戶：除了（Nintendo，emuiibo，emuMMC，BCAT，JKSV，warmboot_mariko）文件夾，刪除其餘文件夾。然後將 shallowsea/atmosphere X.XX.X/ 裏面所有東西解壓縮放到SD卡中。 | If you are Atmosphere user: Delete all the folders but not (Nintendo,emuiibo,emuMMC,BCAT,JKSV,warmboot_mariko) folders. Then drape and drop shallowsea/atmosphere X.XX.X/ into your sd card. |
+| 如果您是sxos用戶：除了（Nintendo，emuiibo，sxos/emunand，BCAT，license.dat，Emutendo，JKSV）文件夾，刪除其餘文件夾。然後將 shallowsea/sxos X.X.X/ 裏面所有東西解壓縮放到SD卡中。 | If you are sxos user: Delete all the folders but not (Nintendo,license.dat,emuiibo,sxos/emunand,BCAT,Emutendo,JKSV) folders. Then drape and drop shallowsea/sxos X.X.X/ into your sd card. |
 
 # 大氣層完整版本整合包包括:
 | 自製軟件 Homebrew | 用途 Function |
@@ -33,17 +34,17 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [edizon snapshot](https://github.com/WerWolv/EdiZon) | 金手指軟件 (games cheating app) |
 | [linkalho](https://github.com/rdmrocha/linkalho) | 鏈接虛假的任天堂帳戶，不刪除用户遊戲保存(link fake Nintendo account without delete user games saves) |
 | [DBI](https://github.com/rashevskyv/dbi) | install games & mtp serves |
-| Deepsea toolbox |（可以重新啟動到hekate）(u can choose to reboot to hekate)
-| NXDumptool | （轉儲遊戲卡）(Dump gamecard) |
+| [Deepsea toolbox](https://github.com/Team-Neptune/DeepSea-Toolbox) |（可以重新啟動到hekate）(u can choose to reboot to hekate)
+| [NXDumptool](https://github.com/DarkMatterCore/nxdumptool) | （轉儲遊戲卡）(Dump gamecard) |
 | Daybreak | 離線更新系統固件，與sxos不兼容(offline update firmware. Only compatible with atmosphere) |
-| Choidujournx(大白兔) | 離線更新固件。與大氣和sxos兼容(offline update firmware. compatible with both atmosphere and sxos) |
-| nxmtp | 使用USB電纜傳輸文件(transfer file with usb cable)|
-| Nx-shell | switch文件管理器(switch sd file manager) |
-| JKSV | 功能類似於[checkpoint](https://github.com/FlagBrew/Checkpoint)，導出和導入保存(function as like as [checkpoint](https://github.com/FlagBrew/Checkpoint)，eject or inject save) |
-| sigpatch-updater | 在線更新大氣層sigpatch(update atmosphere sigpatch online) |
-| pplay | Nintendo Switch的視頻播放器(a video player for the Nintendo Switch) |
-| Playernx | |
-| nx-theme-installer | 在switch上安裝螢幕桌布(install themes on switch)
+| [Choidujournx(大白兔)](https://switchtools.sshnuke.net/) | 離線更新固件。與大氣和sxos兼容(offline update firmware. compatible with both atmosphere and sxos) |
+| [nxmtp](https://github.com/liuervehc/nxmtp) | 使用USB電纜傳輸文件(transfer file with usb cable)|
+| [Nx-shell](https://github.com/joel16/NX-Shell) | switch文件管理器(switch sd file manager) |
+| [JKSV](https://github.com/J-D-K/JKSV) | 功能類似於[checkpoint](https://github.com/FlagBrew/Checkpoint)，導出和導入保存(function as like as [checkpoint](https://github.com/FlagBrew/Checkpoint)，eject or inject save) |
+| [sigpatch-updater](https://github.com/ITotalJustice/sigpatch-updater) | 在線更新大氣層sigpatch(update atmosphere sigpatch online) |
+| [pplay](https://github.com/Cpasjuste/pplay) | Nintendo Switch的視頻播放器(a video player for the Nintendo Switch) |
+| [themezer-nx](https://github.com/suchmememanyskill/themezer-nx) | A switch theme downloader |
+| [nx-theme-installer](https://github.com/exelix11/SwitchThemeInjector) | 在switch上安裝螢幕桌布(install themes on switch) |
 | N-Xplorer | 另一個switch文件管理器(another switch sd card file manager) |
 | switch-cheat-updater | 在線更新遊戲金手指(update games cheat code online) |
 | nx ntpc | 在線設置Nintendo Switch的時鐘(sets the Nintendo Switch's clock appropriately) |
@@ -54,15 +55,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * nx-ovlloader
 * tesla菜單（由nx-ovlloader加載的初始覆蓋菜單）
 * sysclk（超頻switch軟件）
-
-# 大氣層精簡整合包包括:
-* 大氣層sigpatch
-* exosphere.ini(應用了隱身模式)
-* hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
-* Nightfall (直接連網下載並自動更新任天堂原廠固件，好像系統設置中的系統更新)(只適用大氣層)
-* daybreak(離線更新固件)(不適用sxos)
-* reboot to payload
-* hb-appstore(自製軟件下載器)
+* sx gear
 
 # sxos完整版本整合包包括:
 * hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
