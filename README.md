@@ -45,13 +45,13 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [pplay](https://github.com/Cpasjuste/pplay) | Nintendo Switch的視頻播放器(a video player for the Nintendo Switch) |
 | [themezer-nx](https://github.com/suchmememanyskill/themezer-nx) | A switch theme downloader |
 | [nx-theme-installer](https://github.com/exelix11/SwitchThemeInjector) | 在switch上安裝螢幕桌布(install themes on switch) |
-| N-Xplorer | 另一個switch文件管理器(another switch sd card file manager) |
-| switch-cheat-updater | 在線更新遊戲金手指(update games cheat code online) |
-| nx ntpc | 在線設置Nintendo Switch的時鐘(sets the Nintendo Switch's clock appropriately) |
-| lock log | 停止向Nintendo發送日誌(stops sending telemetry to Nintendo) |
-| reboot to payload | |
-| missioncontrol | 無需額外轉接器，即可直接用第三方手柄藍牙連接switch，etc. ps4手柄，不支持sxos |
-* syscon（無需額外轉接器，即可用usb線連接第三方手柄，etc. ps3 ps4 xbox one xbox360等手柄）
+| [N-Xplorer](https://github.com/CompSciOrBust/N-Xplorer) | 另一個switch文件管理器(another switch sd card file manager) |
+| [switch-cheat-updater](https://github.com/HamletDuFromage/switch-cheats-updater) | 在線更新遊戲金手指(update games cheat code online) |
+| [nx ntpc](https://github.com/thedax/NX-ntpc) | 在線設置Nintendo Switch的時鐘(sets the Nintendo Switch's clock appropriately) |
+| [lock log](https://github.com/StarDustCFW/Lock-Logs) | 停止向Nintendo發送日誌(stops sending telemetry to Nintendo) |
+| reboot to payload | / |
+| [missioncontrol](https://github.com/ndeadly/MissionControl/) | 無需額外轉接器，即可直接用第三方手柄藍牙連接switch，etc. ps4手柄，不支持sxos |
+| [syscon](https://github.com/cathery/sys-con) | 無需額外轉接器，即可用usb線連接第三方手柄，etc. ps3 ps4 xbox one xbox360等手柄(sysmodule for third-party controller support with USB connection)
 * nx-ovlloader
 * tesla菜單（由nx-ovlloader加載的初始覆蓋菜單）
 * sysclk（超頻switch軟件）
