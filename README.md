@@ -2,7 +2,7 @@
 The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee primary version) and sxos.
 * You can download rcmloader package(注入器整合包) from [here](https://github.com/carcaschoi/rcmloader-package)
 * You can download switch firmware(系統固件) from [here](https://darthsternie.net/switch-firmwares/)
-* 按[這裏](https://github.com/carcaschoi/switch-chinese-homebrew-app)下载switch汉化的自制軟件
+* 按[這裏](https://github.com/carcaschoi/switch-chinese-homebrew-app)下载switch漢化的自制軟件
 
 說明 readme:
 # 更新整合包指南 Update aio-package guide !!!:
