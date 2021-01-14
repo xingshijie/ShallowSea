@@ -6,9 +6,6 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 
 說明 readme:
 # 更新整合包指南 Update aio-package guide !!!:
-* 如果你是硬破(sx core/lite)機並想轉用大氣層，一定要先刪除整合包根目錄的「exosphere.ini」並使用[90dns](https://gbatemp.net/threads/90dns-dns-server-for-blocking-all-nintendo-servers.516234/)😎
-* If your switch is modded by sx core/lite and want to use atmosphere, u MUST DELETE 「exosphere.ini」 which located at the root of the sd card and use [90dns](https://gbatemp.net/threads/90dns-dns-server-for-blocking-all-nintendo-servers.516234/) instead)😎
-
 | 中文指南 | English guide |
 | ------ | ------------- |
 | 從[這裡](https://github.com/carcaschoi/ShallowSea/releases)下載整合包「Shalloesea.rar」 | Download aio package「Shallowsea.rar」 from [here](https://github.com/carcaschoi/ShallowSea/releases) |
