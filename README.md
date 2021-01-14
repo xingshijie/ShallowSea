@@ -49,10 +49,11 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | reboot to payload | / |
 | [missioncontrol](https://github.com/ndeadly/MissionControl/) | 無需額外轉接器，即可直接用第三方手柄藍牙連接switch，etc. ps4手柄，不支持sxos |
 | [syscon](https://github.com/cathery/sys-con) | 無需額外轉接器，即可用usb線連接第三方手柄，etc. ps3 ps4 xbox one xbox360等手柄(sysmodule for third-party controller support with USB connection)
-* nx-ovlloader
-* tesla菜單（由nx-ovlloader加載的初始覆蓋菜單）
-* sysclk（超頻switch軟件）
-* sx gear
+| [nx-ovlloader](https://github.com/WerWolv/nx-ovlloader) | Host process for loading Switch overlay OVL |
+| [tesla menu](https://github.com/WerWolv/Tesla-Menu) | 由nx-ovlloader加載的初始覆蓋菜單 (The initial overlay menu to be loaded by nx-ovlloader) |
+| [ovlsysmodule](https://github.com/WerWolv/ovl-sysmodules) | / |
+| [sysclk](https://github.com/retronx-team/sys-clk) | 超頻switch (overclock switch) |
+| [sx gear](www.sx.xecuter.com) | redirect sxos payload to hekate payload |
 
 # sxos完整版本整合包包括:
 * hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
