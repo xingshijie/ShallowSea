@@ -1,4 +1,4 @@
-# ShallowSea (readme待優化，有空再弄)
+# ShallowSea
 The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee primary version) and sxos.
 * You can download rcmloader package(注入器整合包) from [here](https://github.com/carcaschoi/rcmloader-package)
 * You can download switch firmware(系統固件) from [here](https://darthsternie.net/switch-firmwares/)
