@@ -12,7 +12,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | 如果您是大氣層用戶：除了（Nintendo，emuiibo，emuMMC，BCAT，JKSV，warmboot_mariko）文件夾，刪除其餘文件夾。然後將 shallowsea/atmosphere X.XX.X/ 裏面所有東西解壓縮放到SD卡中。 | If you are Atmosphere user: Delete all the folders but not (Nintendo,emuiibo,emuMMC,BCAT,JKSV,warmboot_mariko) folders. Then drape and drop shallowsea/atmosphere X.XX.X/ into your sd card. |
 | 如果您是sxos用戶：除了（Nintendo，emuiibo，sxos/emunand，BCAT，license.dat，Emutendo，JKSV）文件夾，刪除其餘文件夾。然後將 shallowsea/sxos X.X.X/ 裏面所有東西解壓縮放到SD卡中。 | If you are sxos user: Delete all the folders but not (Nintendo,license.dat,emuiibo,sxos/emunand,BCAT,Emutendo,JKSV) folders. Then drape and drop shallowsea/sxos X.X.X/ into your sd card. |
 
-# 大氣層完整版本整合包包括:
+# 大氣層整合包包括 atmosphere package includes:
 | 自製軟件 Homebrew | 用途 Function |
 | ---------------- | ------------- |
 | [大氣層sigpatch(sigpatch for atmosphere)](https://github.com/ITotalJustice/patches) | allow switch to run nsp forwarder & piracy games |
@@ -55,7 +55,9 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [sysclk](https://github.com/retronx-team/sys-clk) | 超頻switch (overclock switch) |
 | [sx gear](https://sx.xecuter.com) | redirect sxos payload to hekate payload |
 
-# sxos完整版本整合包包括:
+# sxos整合包包括 sxos package includes :
+| 自製軟件 Homebrew | 用途 Function |
+| ---------------- | ------------- |
 | [hekate](https://github.com/CTCaer/hekate) (with [incognito rcm](https://github.com/jimzrt/Incognito_RCM), [lockpick rcm](https://github.com/shchmue/Lockpick_RCM), [tegraexplorer](https://github.com/suchmememanyskill/TegraExplorer), [fusee-primary.bin](https://github.com/Atmosphere-NX/Atmosphere), [sxos.bin](https://sx.xecuter.com) | Custom Graphical Nintendo Switch bootloader, firmware patcher, tools, and many more.
 | hbg shop黑商店([tinfoil shop setup](https://github.com/carcaschoi/ShallowSea/blob/main/tinfoil%20shop%20setup))（語言已更改為中文）(language has changed to chinese) | download piracy games directly to switch |
 | [awoo installer](https://github.com/Huntereb/Awoo-Installer) | 遊戲安裝軟件，支援格式xci,xcz,nsp,nsz (NSP, NSZ, XCI, and XCZ Installer for Nintendo Switch) |
