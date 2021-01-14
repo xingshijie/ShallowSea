@@ -89,10 +89,6 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 * nx-ovlloader
 * sysclk（超頻軟件）
 
-# sxos精簡整合包包括:
-* sxos boot.dat
-* hb-appstore
-* hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
 
 ## atmosphere full version includes:
 * sigpatch for atmosphere
@@ -135,14 +131,6 @@ plugin :
 * nx-ovlloader
 * sysclk (overclocked switch)
 
-## atmosphere minimal version includes:
-* sigpatch for atmosphere
-* exosphere.ini(Incognito applied)
-* hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
-* Nightfall (update the latest of switch offical firmware directly as like as oringal Nintendo update system. One click and go)(only for atmosphere)
-* daybreak
-* reboot to payload
-* hb-appstore
 
 ## sxos full version includes:
 * hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
@@ -177,11 +165,6 @@ plugin :
 * tesla menu (initial overlay menu to be loaded by nx-ovlloader)
 * nx-ovlloader
 * sysclk (overclocked switch)
-
-## sxos minimal version includes:
-* sxos boot.dat
-* hb-appstore
-* hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
 
 notes: 
 * edizon,missioncontrol, Nightfall not work for sxos
