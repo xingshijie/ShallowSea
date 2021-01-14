@@ -47,167 +47,42 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | [nx ntpc](https://github.com/thedax/NX-ntpc) | 在線設置Nintendo Switch的時鐘(sets the Nintendo Switch's clock appropriately) |
 | [lock log](https://github.com/StarDustCFW/Lock-Logs) | 停止向Nintendo發送日誌(stops sending telemetry to Nintendo) |
 | reboot to payload | / |
-| [missioncontrol](https://github.com/ndeadly/MissionControl/) | 無需額外轉接器，即可直接用第三方手柄藍牙連接switch，etc. ps4手柄，不支持sxos |
-| [syscon](https://github.com/cathery/sys-con) | 無需額外轉接器，即可用usb線連接第三方手柄，etc. ps3 ps4 xbox one xbox360等手柄(sysmodule for third-party controller support with USB connection)
+| [missioncontrol](https://github.com/ndeadly/MissionControl/)(only support atmosphere) | 無需額外轉接器，即可直接用第三方手柄藍牙連接switch，etc. ps4手柄(sysmodule for third-party controller support with bluetooth) |
+| [syscon](https://github.com/cathery/sys-con) | 無需額外轉接器，即可用usb線連接第三方手柄，etc. ps3 ps4 xbox one xbox360等手柄(sysmodule for third-party controller support with USB connection) |
 | [nx-ovlloader](https://github.com/WerWolv/nx-ovlloader) | Host process for loading Switch overlay OVL |
 | [tesla menu](https://github.com/WerWolv/Tesla-Menu) | 由nx-ovlloader加載的初始覆蓋菜單 (The initial overlay menu to be loaded by nx-ovlloader) |
 | [ovlsysmodule](https://github.com/WerWolv/ovl-sysmodules) | / |
 | [sysclk](https://github.com/retronx-team/sys-clk) | 超頻switch (overclock switch) |
-| [sx gear](www.sx.xecuter.com) | redirect sxos payload to hekate payload |
+| [sx gear](https://sx.xecuter.com) | redirect sxos payload to hekate payload |
 
 # sxos完整版本整合包包括:
-* hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
-* hbg shop黑商店(已加入jits.cc,redump shop,quotas shop,under shop,eeveesaveproject)（語言已更改為中文）(language has changed to chinese)
-* awoo installer（遊戲安裝器，支援各種格式遊戲檔案，nsp nsz xci xcz）
-* goldlef
-* ftpd (遠端控制switch SD文件)（需要[filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe)）
-* idn_mitm（lan play局域網播放）
-* sysdvr（把遊戲畫面投影到電腦）
-* emuiibo（模擬amiibo）
-* aio-switch-updater（在線更新CFW，sigpatches，FW和金手指）(update CFWs, sigpatches, FWs and cheat codes)
-* hb-appstore（自製軟件下載器）
-* linkalho（鏈接虛假的任天堂帳戶，不刪除用户保存）
-* DBI
-* Sxdumper（轉儲遊戲卡）(不支援大氣層)
-* NXDumptool（轉儲遊戲卡）
-* Choidujournx（離線更新固件。與大氣層和sxos兼容）
-* nxmtp（使用USB線傳輸文件到電腦）
-* Nx-shell（switch文件管理器）
-* JKSV（功能類似於checkpoint，導出導入保存）
-* pplay（Nintendo Switch的視頻播放器）
-* Playernx
-* nx-theme-installer（在switch上安裝螢幕桌布）(install themes on switch)
-* N-Xplorer（另一個switch文件管理器）(another switch file manager)
-* switch-cheat-updater（在線更新金手指）
-* nx ntpc(sets the Nintendo Switch's clock appropriately)
-* lock log(停止向Nintendo發送日誌)
-* sxos boot.dat
-
-插件 ：
-* sx autoloader 1.4（在桌面直接加載xci相簿遊戲)(auto laod switch xci games on home screen)
-* syscon (無需額外轉接器，即可用usb線連接第三方手柄，etc. ps3 ps4 xbox one xbox360等手柄)
-* tesla menu (快捷菜單)（由nx-ovlloader加載的初始覆蓋菜單）
-* nx-ovlloader
-* sysclk（超頻軟件）
-
-
-## atmosphere full version includes:
-* sigpatch for atmosphere
-* exosphere.ini (Incognito applied)
-* hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
-* hbg shop (with jits.cc,redump shop,quotas shop,under shop,eeveesaveproject)(language has changed to chinese)
-* Nightfall (update the latest of switch offical firmware directly as like as oringal Nintendo update system. One click and go)(only for atmosphere)
-* awoo installer (multi games format installer)
-* goldlef
-* ftpd (required [filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe))
-* idn_mitm (lan play)
-* sysdvr (stream switch games to pc)
-* emuiibo (amiibo emulated)
-* aio-switch-updater (update CFWs, sigpatches, FWs and cheat codes)
-* hb-appstore (homebrew app downloader)
-* edizon 4.0 (cheat app)
-* linkalho (link fake Nintendo account without delete saves)
-* DBI
-* Deepsea toolbox (u can choose to reboot to hekate)
-* NXDumptool (dump gamecard)
-* daybreak (offline update firmware，not compatible with sxos)
-* Choidujournx (offline update firmware. compatible with both atmosphere and sxos)
-* nxmtp (transfer file with usb cable)
-* Nx-shell (switch file manager)
-* JKSV (function as like as checkpoint，eject or inject save)
-* sigpatch-updater (update sigpatch online)
-* pplay (a video player for the Nintendo Switch)
-* playernx
-* nx-theme-installer(install themes on switch)
-* N-Xplorer (another switch file manager)
-* switch cheat updater (update cheat online)
-* nx ntpc(sets the Nintendo Switch's clock appropriately)
-* lock log(stops sending telemetry to Nintendo)
-* reboot to payload
-
-plugin : 
-* missioncontrol (sysmodule for third-party controller support with bluetooth)(not support sxos)
-* syscon (sysmodule for third-party controller support with usb connection)
-* tesla menu (initial overlay menu to be loaded by nx-ovlloader)
-* nx-ovlloader
-* sysclk (overclocked switch)
-
-
-## sxos full version includes:
-* hekate(with incognito rcm, lockpick rcm, fusee-primary.bin, sxos.bin)
-* hbg shop  (with jits.cc,redump shop,quotas shop,under shop,eeveesaveproject)(language has changed to chinese)(language has changed to chinese)
-* awoo installer (multi games format installer)
-* goldlef
-* ftp4sxos (required [filezilla](https://download.filezilla-project.org/client/FileZilla_3.51.0_win64_sponsored-setup.exe))
-* sysdvr (stream switch games to pc)
-* emuiibo (amiibo emulated)
-* aio-switch-updater (update CFWs, sigpatches, FWs and cheat codes)
-* hb-appstore (homebrew app downloader)
-* linkalho (link fake Nintendo account without delete saves)
-* DBI
-* Sxdumper (dump gamecard)
-* NXDumptool (dump gamecard)
-* Choidujournx (offline update firmware. compatible with both atmosphere and sxos)
-* nxmtp (transfer file with usb cable)
-* Nx-shell (switch file manager)
-* JKSV (function as like as checkpoint，eject or inject save)
-* pplay (a video player for the Nintendo Switch)
-* playernx
-* nx-theme-installer (install themes on switch)
-* N-Xplorer (another switch file manager)
-* switch cheat updater (update cheat online)
-* nx ntpc(sets the Nintendo Switch's clock appropriately)
-* lock log(stops sending telemetry to Nintendo)
-* sxos boot.dat
-
-plugin : 
-* sx autoloader 1.4 (auto laod switch xci games on home screen)
-* syscon (sysmodule for third-party controller support with usb connection)
-* tesla menu (initial overlay menu to be loaded by nx-ovlloader)
-* nx-ovlloader
-* sysclk (overclocked switch)
-
-notes: 
-* edizon,missioncontrol, Nightfall not work for sxos
-* atmosphere sysdvr syscon x
-
-Sources:
-* [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere)
-* [Atmosphere sigpatch](https://github.com/ITotalJustice/patches)
-* [sigpatch updater](https://github.com/ITotalJustice/sigpatch-updater)
-* [hekate](https://github.com/CTCaer/hekate)
-* [Deeepsea toolbox](https://github.com/Team-Neptune/DeepSea-Toolbox)
-* [hbg shop(without jits.cc,redump shop,quotas shop,under shop,eeveesaveproject)](https://thehbg.shop/main.html)
-* [Nightfall](https://github.com/D3fau4/NightFall)
-* [awoo installer](https://github.com/Huntereb/Awoo-Installer)
-* [goldleaf](https://github.com/XorTroll/Goldleaf)
-* [ftpd](https://github.com/mtheall/ftpd)
-* [idn_mitm](https://github.com/spacemeowx2/ldn_mitm)
-* [sysdvr](https://github.com/exelix11/SysDVR/)
-* [emuiibo](https://github.com/XorTroll/emuiibo/)
-* [aio-switch-updater](https://github.com/HamletDuFromage/AIO-switch-updater)
-* [hb-appstore](https://github.com/fortheusers/hb-appstore)
-* [edizon](https://github.com/WerWolv/EdiZon)
-* [linkalho](https://github.com/rdmrocha/linkalho)
-* [Deepsea toolbox](https://github.com/Team-Neptune/DeepSea-Toolbox)
-* [nxdumptool](https://github.com/DarkMatterCore/nxdumptool)
-* [choijournx](https://switchtools.sshnuke.net/)
-* [nxmtp](https://github.com/liuervehc/nxmtp)
-* [nx shell](https://github.com/joel16/NX-Shell)
-* [jksv](https://github.com/J-D-K/JKSV)
-* [pplay](https://github.com/Cpasjuste/pplay)
-* [nxthemeinstaller](https://github.com/exelix11/SwitchThemeInjector)
-* [N-Xplorer](https://github.com/CompSciOrBust/N-Xplorer)
-* [switch-cheat-updater](https://github.com/HamletDuFromage/switch-cheats-updater)
-* [nx ntpc](https://github.com/thedax/NX-ntpc)
-* [ftp4sxos](https://github.com/Falki14/ftpd4sxos)
-* [lock-logs](https://github.com/StarDustCFW/Lock-Logs)
-* [nx-ovlloader](https://github.com/WerWolv/nx-ovlloader)
-* [dbi](https://github.com/rashevskyv/dbi)
-* [sxos items(such as sxos boot.dat, sxos.bin)](https://sx.xecuter.com)
-* [missioncontrol](https://github.com/ndeadly/MissionControl)
-* [syscon](https://github.com/cathery/sys-con)
-* [tesla menu](https://github.com/WerWolv/Tesla-Menu)
-* [sysclk](https://github.com/retronx-team/sys-clk)
-* [incognito rcm](https://github.com/Scandal-UK/Incognito_RCM)
-* [Lockpick rcm](https://github.com/shchmue/Lockpick_RCM)
+| [hekate](https://github.com/CTCaer/hekate) (with [incognito rcm](https://github.com/jimzrt/Incognito_RCM), [lockpick rcm](https://github.com/shchmue/Lockpick_RCM), [tegraexplorer](https://github.com/suchmememanyskill/TegraExplorer), [fusee-primary.bin](https://github.com/Atmosphere-NX/Atmosphere), [sxos.bin](https://sx.xecuter.com) | Custom Graphical Nintendo Switch bootloader, firmware patcher, tools, and many more.
+| hbg shop黑商店([tinfoil shop setup](https://github.com/carcaschoi/ShallowSea/blob/main/tinfoil%20shop%20setup))（語言已更改為中文）(language has changed to chinese) | download piracy games directly to switch |
+| [awoo installer](https://github.com/Huntereb/Awoo-Installer) | 遊戲安裝軟件，支援格式xci,xcz,nsp,nsz (NSP, NSZ, XCI, and XCZ Installer for Nintendo Switch) |
+| [goldlef](https://github.com/XorTroll/Goldleaf) | check function from [here](https://github.com/XorTroll/Goldleaf#features) |
+| [ftpd pro](https://github.com/mtheall/ftpd) | Allows file transfer over local network via ftp | 
+| [sysdvr](https://github.com/exelix11/SysDVR) | allows capturing the running game output to a pc via USB or network connection |
+| [emuiibo](https://github.com/XorTroll/emuiibo) | 模擬amiibo (amiibo emulation) |
+| [aio-switch-updater](https://github.com/HamletDuFromage/AIO-switch-updater) | 更新CFW，sigpatches，FW和金手指 (update CFWs, sigpatches, FWs and cheat codes) |
+| [hb-appstore](https://github.com/fortheusers/hb-appstore) | 自製軟件下載器 (homebrew app downloader) |
+| [linkalho](https://github.com/rdmrocha/linkalho) | 鏈接虛假的任天堂帳戶，不刪除用户遊戲保存(link fake Nintendo account without delete user games saves) |
+| [DBI](https://github.com/rashevskyv/dbi) | install games & mtp serves |
+| [Sxdumper](https://sx.xecuter.com) | 轉儲遊戲卡,不支援大氣層 (dump game card & not support atmosphere) |
+| [NXDumptool](https://github.com/DarkMatterCore/nxdumptool) | （轉儲遊戲卡）(Dump gamecard) |
+| [Choidujournx(大白兔)](https://switchtools.sshnuke.net/) | 離線更新固件。與大氣和sxos兼容(offline update firmware. compatible with both atmosphere and sxos) |
+| [nxmtp](https://github.com/liuervehc/nxmtp) | 使用USB電纜傳輸文件(transfer file with usb cable)|
+| [Nx-shell](https://github.com/joel16/NX-Shell) | switch文件管理器(switch sd file manager) |
+| [JKSV](https://github.com/J-D-K/JKSV) | 功能類似於[checkpoint](https://github.com/FlagBrew/Checkpoint)，導出和導入保存(function as like as [checkpoint](https://github.com/FlagBrew/Checkpoint)，eject or inject save) |
+| [themezer-nx](https://github.com/suchmememanyskill/themezer-nx) | A switch theme downloader |
+| [nx-theme-installer](https://github.com/exelix11/SwitchThemeInjector) | 在switch上安裝螢幕桌布(install themes on switch) |
+| [N-Xplorer](https://github.com/CompSciOrBust/N-Xplorer) | 另一個switch文件管理器(another switch sd card file manager) |
+| [switch-cheat-updater](https://github.com/HamletDuFromage/switch-cheats-updater) | 在線更新遊戲金手指(update games cheat code online) |
+| [nx ntpc](https://github.com/thedax/NX-ntpc) | 在線設置Nintendo Switch的時鐘(sets the Nintendo Switch's clock appropriately) |
+| [lock log](https://github.com/StarDustCFW/Lock-Logs) | 停止向Nintendo發送日誌(stops sending telemetry to Nintendo) |
+| [sxos boot.dat](https://sx.xecuter.com) | / |
+| [sx autoloader 1.4](https://sx.xecuter.com) | 在桌面直接加載xci相簿遊戲 (auto laod switch xci games on home screen) |
+| [syscon](https://github.com/cathery/sys-con) | 無需額外轉接器，即可用usb線連接第三方手柄，etc. ps3 ps4 xbox one xbox360等手柄(sysmodule for third-party controller support with USB connection) |
+| [nx-ovlloader](https://github.com/WerWolv/nx-ovlloader) | Host process for loading Switch overlay OVL |
+| [tesla menu](https://github.com/WerWolv/Tesla-Menu) | 由nx-ovlloader加載的初始覆蓋菜單 (The initial overlay menu to be loaded by nx-ovlloader) |
+| [ovlsysmodule](https://github.com/WerWolv/ovl-sysmodules) | / |
+| [sysclk](https://github.com/retronx-team/sys-clk) | 超頻switch (overclock switch) |
