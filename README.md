@@ -69,7 +69,7 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | hbg shop黑商店([tinfoil shop setup](https://github.com/carcaschoi/ShallowSea/blob/main/tinfoil%20shop%20setup))（語言已更改為中文）(language has changed to chinese) | download piracy games directly to switch |
 | [awoo installer](https://github.com/Huntereb/Awoo-Installer) | 遊戲安裝軟件，支援格式xci,xcz,nsp,nsz (NSP, NSZ, XCI, and XCZ Installer for Nintendo Switch) |
 | [goldlef](https://github.com/XorTroll/Goldleaf) | check function from [here](https://github.com/XorTroll/Goldleaf#features) |
-| ftp4sxos | Allows file transfer over local network via ftp | 
+| [ftpd4sxos](https://github.com/Falki14/ftpd4sxos) | Allows file transfer over local network via ftp | 
 | [sysdvr](https://github.com/exelix11/SysDVR) | allows capturing the running game output to a pc via USB or network connection |
 | [emuiibo](https://github.com/XorTroll/emuiibo) | 模擬amiibo (amiibo emulation) |
 | [aio-switch-updater](https://github.com/HamletDuFromage/AIO-switch-updater) | 更新CFW，sigpatches，FW和金手指 (update CFWs, sigpatches, FWs and cheat codes) |
