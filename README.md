@@ -12,7 +12,8 @@ The new All-in-One CFW package for the Nintendo Switch with atmosphere(fusee pri
 | 如果您是大氣層用戶：除了（Nintendo，emuiibo，emuMMC，BCAT，JKSV，warmboot_mariko）文件夾，刪除其餘文件夾。然後將 shallowsea/atmosphere X.XX.X/ 裏面所有東西解壓縮放到SD卡中。 | If you are Atmosphere user: Delete all the folders but not (Nintendo,emuiibo,emuMMC,BCAT,JKSV,warmboot_mariko) folders. Then drape and drop shallowsea/atmosphere X.XX.X/ into your sd card. |
 | 如果您是sxos用戶：除了（Nintendo，emuiibo，sxos/emunand，BCAT，license.dat，Emutendo，JKSV）文件夾，刪除其餘文件夾。然後將 shallowsea/sxos X.X.X/ 裏面所有東西解壓縮放到SD卡中。 | If you are sxos user: Delete all the folders but not (Nintendo,license.dat,emuiibo,sxos/emunand,BCAT,Emutendo,JKSV) folders. Then drape and drop shallowsea/sxos X.X.X/ into your sd card. |
 # sxos轉大氣層指南
-| ---------------- | ------------- |
+| sxos轉大氣層指南 |
+| --------------- |
 | 1*. (硬破機需做此步驟，只需做一次即可)先用sxos 3.1.0到sxos menu→options→sx core→clean up |
 | 2. 保留Nintendo，sxos，license.dat，Emutendo |
 | 3. 解壓縮大氣層整合包 |
